@@ -41,7 +41,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://unistudents.gr/blog/content/images/2022/01/logo2-1024x341-1-1.png
   name: Κατάσταση Συστημάτων
-  introTitle: "Κατάσταση συστημάτων"
   introMessage: "Σε αυτή τη σελίδα μπορείς να παρακολουθείς την κατάσταση των συστημάτων που στηρίζεται το UniStudents, όπως: Cloud services, Βάσεις Δεδομένων, Φοιτητολόγια κλπ."
   navbar:
     - title: Status
