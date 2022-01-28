@@ -25,6 +25,7 @@ sites:
     url: https://students.ece.ntua.gr/login
   - name: Πάντειο Πανεπιστήμιο
     url: https://foit.panteion.gr/declare/Login.aspx
+    __dangerous__insecure: true
   - name: Πανεπιστήμιο Αιγαίου
     url: https://uni-extapi.aegean.gr/api/
   - name: Πανεπιστήμιο Αιγαίου (Σ.Ε.Φ.)
@@ -35,8 +36,6 @@ sites:
     url: https://my-studies.uoa.gr/Secr3w/connect.aspx
   - name: Πανεπιστήμιο Πατρών
     url: https://progress.upatras.gr
-    expectedStatusCodes:
-      - 302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
