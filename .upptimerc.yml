@@ -7,8 +7,6 @@ sites:
     url: https://gohan.unistudents.gr
   - name: Οικονομικό Πανεπιστήμιο Αθηνών
     url: https://e-grammateia.aueb.gr/unistudent/
-    expectedStatusCodes:
-      - 302
   - name: Αριστοτέλειο Πανεπιστήμιο
     url: https://universis-api.it.auth.gr/api
   - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
@@ -17,8 +15,6 @@ sites:
     url: https://universis-api.hmu.gr/api/
   - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
     url: https://e-studies.hua.gr/unistudent/
-    expectedStatusCodes:
-      - 302
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
     url: https://backend.central.ntua.gr/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο (ΣΥΜΜΗ)
