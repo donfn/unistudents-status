@@ -9,12 +9,13 @@ sites:
     url: https://e-grammateia.aueb.gr/unistudent/
   - name: Αριστοτέλειο Πανεπιστήμιο
     url: https://universis-api.it.auth.gr/api
-  - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
-    url: https://api.duth.gr/api/
+  # - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
+  #   url: https://api.duth.gr/api/
   - name: Ελληνικό Μεσογειακό Πανεπιστήμιο
     url: https://universis-api.hmu.gr/api/
   - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
     url: https://e-studies.hua.gr/unistudent/
+    __dangerous__insecure: true
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
     url: https://backend.central.ntua.gr/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο (ΣΥΜΜΗ)
