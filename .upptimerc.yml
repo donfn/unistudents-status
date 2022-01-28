@@ -9,8 +9,8 @@ sites:
     url: https://e-grammateia.aueb.gr/unistudent/
   - name: Αριστοτέλειο Πανεπιστήμιο
     url: https://universis-api.it.auth.gr/api
-  # - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
-  #   url: https://api.duth.gr/api/
+  - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
+    url: https://oauth.duth.gr/login
   - name: Ελληνικό Μεσογειακό Πανεπιστήμιο
     url: https://universis-api.hmu.gr/api/
   - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
