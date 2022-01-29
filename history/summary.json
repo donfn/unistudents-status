@@ -22,19 +22,19 @@
     "url": "https://studentweb.aspete.gr/",
     "icon": "https://favicons.githubusercontent.com/studentweb.aspete.gr",
     "slug": "a-s-pai-t-e",
-    "status": "down",
-    "uptime": "29.02%",
-    "uptimeDay": "29.02%",
-    "uptimeWeek": "29.02%",
-    "uptimeMonth": "29.02%",
-    "uptimeYear": "29.02%",
-    "time": 1367,
-    "timeDay": 1367,
-    "timeWeek": 1367,
-    "timeMonth": 1367,
-    "timeYear": 1367,
+    "status": "up",
+    "uptime": "26.68%",
+    "uptimeDay": "26.68%",
+    "uptimeWeek": "26.68%",
+    "uptimeMonth": "26.68%",
+    "uptimeYear": "26.68%",
+    "time": 1346,
+    "timeDay": 1346,
+    "timeWeek": 1346,
+    "timeMonth": 1346,
+    "timeYear": 1346,
     "dailyMinutesDown": {
-      "2022-01-29": 114
+      "2022-01-29": 130
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/egram.cm.ihu.gr",
     "slug": "diethnes-panepistimio-athinon-cm",
     "status": "up",
-    "uptime": "75.04%",
-    "uptimeDay": "75.04%",
-    "uptimeWeek": "75.04%",
-    "uptimeMonth": "75.04%",
-    "uptimeYear": "75.04%",
+    "uptime": "81.00%",
+    "uptimeDay": "81.00%",
+    "uptimeWeek": "81.00%",
+    "uptimeMonth": "81.00%",
+    "uptimeYear": "81.00%",
     "time": 1486,
     "timeDay": 1486,
     "timeWeek": 1486,
     "timeMonth": 1486,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2022-01-29": 40
+      "2022-01-29": 34
     }
   },
   {
@@ -459,11 +459,11 @@
     "icon": "https://favicons.githubusercontent.com/foit.panteion.gr",
     "slug": "panteio-panepistimio",
     "status": "up",
-    "uptime": "66.19%",
-    "uptimeDay": "66.19%",
-    "uptimeWeek": "66.19%",
-    "uptimeMonth": "66.19%",
-    "uptimeYear": "66.19%",
+    "uptime": "67.09%",
+    "uptimeDay": "67.09%",
+    "uptimeWeek": "67.09%",
+    "uptimeMonth": "67.09%",
+    "uptimeYear": "67.09%",
     "time": 1016,
     "timeDay": 1016,
     "timeWeek": 1016,
@@ -498,18 +498,18 @@
     "icon": "https://favicons.githubusercontent.com/e-students.teiwest.gr",
     "slug": "proin-tei-dytikis-elladas",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 159
+      "2022-01-29": 176
     }
   },
   {
