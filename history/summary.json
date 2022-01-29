@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/studentweb.aspete.gr",
     "slug": "a-s-pai-t-e",
     "status": "down",
-    "uptime": "41.25%",
-    "uptimeDay": "41.25%",
-    "uptimeWeek": "41.25%",
-    "uptimeMonth": "41.25%",
-    "uptimeYear": "41.25%",
+    "uptime": "38.73%",
+    "uptimeDay": "38.73%",
+    "uptimeWeek": "38.73%",
+    "uptimeMonth": "38.73%",
+    "uptimeYear": "38.73%",
     "time": 1367,
     "timeDay": 1367,
     "timeWeek": 1367,
     "timeMonth": 1367,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2022-01-29": 222
+      "2022-01-29": 247
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://egram.cm.ihu.gr/unistudent/",
     "icon": "https://favicons.githubusercontent.com/egram.cm.ihu.gr",
     "slug": "diethnes-panepistimio-athinon-cm",
-    "status": "up",
-    "uptime": "85.59%",
-    "uptimeDay": "85.59%",
-    "uptimeWeek": "85.59%",
-    "uptimeMonth": "85.59%",
-    "uptimeYear": "85.59%",
-    "time": 1472,
-    "timeDay": 1472,
-    "timeWeek": 1472,
-    "timeMonth": 1472,
-    "timeYear": 1472,
+    "status": "down",
+    "uptime": "86.27%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "86.27%",
+    "uptimeMonth": "86.27%",
+    "uptimeYear": "86.27%",
+    "time": 1436,
+    "timeDay": 1436,
+    "timeWeek": 1436,
+    "timeMonth": 1436,
+    "timeYear": 1436,
     "dailyMinutesDown": {
-      "2022-01-29": 55
+      "2022-01-29": 56
     }
   },
   {
@@ -459,11 +459,11 @@
     "icon": "https://favicons.githubusercontent.com/foit.panteion.gr",
     "slug": "panteio-panepistimio",
     "status": "up",
-    "uptime": "75.00%",
-    "uptimeDay": "75.00%",
-    "uptimeWeek": "75.00%",
-    "uptimeMonth": "75.00%",
-    "uptimeYear": "75.00%",
+    "uptime": "75.71%",
+    "uptimeDay": "75.71%",
+    "uptimeWeek": "75.71%",
+    "uptimeMonth": "75.71%",
+    "uptimeYear": "75.71%",
     "time": 1016,
     "timeDay": 1016,
     "timeWeek": 1016,
@@ -509,7 +509,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 377
+      "2022-01-29": 402
     }
   },
   {
