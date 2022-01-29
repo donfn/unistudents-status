@@ -59,7 +59,7 @@ sites:
   - name: Πολυτεχνείο Κρήτης
     url: https://universis-api.tuc.gr/api
   - name: Πρώην ΤΕΙ Δυτικής Ελλάδας
-    url: https://e-students.teiwest.gr
+    url: https://e-students.teiwest.gr/
   - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
     url: https://e-studies.hua.gr/unistudent/
     __dangerous__insecure: true
