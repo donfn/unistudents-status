@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/studentweb.aspete.gr",
     "slug": "a-s-pai-t-e",
     "status": "up",
-    "uptime": "39.79%",
-    "uptimeDay": "39.79%",
-    "uptimeWeek": "39.79%",
-    "uptimeMonth": "39.79%",
-    "uptimeYear": "39.79%",
+    "uptime": "42.00%",
+    "uptimeDay": "42.00%",
+    "uptimeWeek": "42.00%",
+    "uptimeMonth": "42.00%",
+    "uptimeYear": "42.00%",
     "time": 1397,
     "timeDay": 1397,
     "timeWeek": 1397,
     "timeMonth": 1397,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2022-01-29": 270
+      "2022-01-29": 264
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://egram.cm.ihu.gr/unistudent/",
     "icon": "https://favicons.githubusercontent.com/egram.cm.ihu.gr",
     "slug": "diethnes-panepistimio-athinon-cm",
-    "status": "up",
-    "uptime": "83.86%",
-    "uptimeDay": "83.86%",
-    "uptimeWeek": "83.86%",
-    "uptimeMonth": "83.86%",
-    "uptimeYear": "83.86%",
-    "time": 1524,
-    "timeDay": 1524,
-    "timeWeek": 1524,
-    "timeMonth": 1524,
-    "timeYear": 1524,
+    "status": "down",
+    "uptime": "83.92%",
+    "uptimeDay": "83.92%",
+    "uptimeWeek": "83.92%",
+    "uptimeMonth": "83.92%",
+    "uptimeYear": "83.92%",
+    "time": 1487,
+    "timeDay": 1487,
+    "timeWeek": 1487,
+    "timeMonth": 1487,
+    "timeYear": 1487,
     "dailyMinutesDown": {
-      "2022-01-29": 73
+      "2022-01-29": 74
     }
   },
   {
@@ -459,11 +459,11 @@
     "icon": "https://favicons.githubusercontent.com/foit.panteion.gr",
     "slug": "panteio-panepistimio",
     "status": "up",
-    "uptime": "76.94%",
-    "uptimeDay": "76.94%",
-    "uptimeWeek": "76.94%",
-    "uptimeMonth": "76.94%",
-    "uptimeYear": "76.94%",
+    "uptime": "77.09%",
+    "uptimeDay": "77.09%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "77.09%",
+    "uptimeYear": "77.09%",
     "time": 1016,
     "timeDay": 1016,
     "timeWeek": 1016,
@@ -509,7 +509,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 448
+      "2022-01-29": 454
     }
   },
   {
