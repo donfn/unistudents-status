@@ -5,34 +5,64 @@ repo: unistudents-status # The name of this repository
 sites:
   - name: Υπηρεσία Νέων & Ανακοινώσεων (UniNews)
     url: https://gohan.unistudents.gr
-  - name: Οικονομικό Πανεπιστήμιο Αθηνών
-    url: https://e-grammateia.aueb.gr/unistudent/
+  - name: Α.Σ.ΠΑΙ.Τ.Ε
+    url: https://studentweb.aspete.gr/
   - name: Αριστοτέλειο Πανεπιστήμιο
     url: https://universis-api.it.auth.gr/api
+  - name: Γεωπονικό Πανεπιστήμιο Αθηνών
+    url: https://unistudent.aua.gr/
   - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
     url: https://oauth.duth.gr/login
-  - name: Ελληνικό Μεσογειακό Πανεπιστήμιο
-    url: https://universis-api.hmu.gr/api/
-  - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
-    url: https://e-studies.hua.gr/unistudent/
-    __dangerous__insecure: true
+  - name: Διεθνές Πανεπιστήμιο Αθηνών (TEITHE)
+    url: http://pithia.teithe.gr/unistudent/
+  - name: Διεθνές Πανεπιστήμιο Αθηνών (CM)
+    url: https://egram.cm.ihu.gr/unistudent/
+  - name: Διεθνές Πανεπιστήμιο Αθηνών (TEIEMT)
+    url: https://e-secretariat.teiemt.gr/unistudent/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
     url: https://backend.central.ntua.gr/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο (ΣΥΜΜΗ)
     url: https://students.ece.ntua.gr/login
-  - name: Πάντειο Πανεπιστήμιο
-    url: https://foit.panteion.gr/declare/Login.aspx
-    __dangerous__insecure: true
-  - name: Πανεπιστήμιο Αιγαίου
+  - name: Εθνικό Καποδιστριακό Πανεπιστήμιο
+    url: https://my-studies.uoa.gr/Secr3w/connect.aspx
+  - name: Ελληνικό Μεσογειακό Πανεπιστήμιο
+    url: https://universis-api.hmu.gr/api/
+  - name: Ιόνιο Πανεπιστήμιο
+    url: https://dias.ionio.gr/
+  - name: Οικονομικό Πανεπιστήμιο Αθηνών
+    url: https://e-grammateia.aueb.gr/unistudent/
+  - name: Πανεπιστήμιο Αιγαίου (UNIVERSIS)
     url: https://uni-extapi.aegean.gr/api/
   - name: Πανεπιστήμιο Αιγαίου (Σ.Ε.Φ.)
     url: https://sef.samos.aegean.gr/index.php
-  - name: Πολυτεχνείο Κρήτης
-    url: https://universis-api.tuc.gr/api
-  - name: Εθνικό Καποδιστριακό Πανεπιστήμιο
-    url: https://my-studies.uoa.gr/Secr3w/connect.aspx
+  - name: Πανεπιστήμιο Αιγαίου (ICARUS)
+    url: https://icarus-icsd.aegean.gr/
+  - name: Πανεπιστήμιο Δυτικής Αττικής
+    url: https://services.uniwa.gr/
+  - name: Πανεπιστήμιο Δυτικής Μακεδονίας
+    url: https://students.uowm.gr/
+  - name: Πανεπιστήμιο Ιωαννίνων
+    url: https://classweb.uoi.gr/
+  - name: Πανεπιστήμιο Κρήτης
+    url: https://student.cc.uoc.gr/
   - name: Πανεπιστήμιο Πατρών
     url: https://progress.upatras.gr
+  - name: Πανεπιστήμιο Πειραιώς
+    url: https://students.unipi.gr/
+  - name: Πανεπιστήμιο Πελοποννήσου (Cardisoft)
+    url: https://e-secretary.uop.gr/UniStudent/
+  - name: Πανεπιστήμιο Πελοποννήσου (TEIPEL)
+    url: http://www.webgram.teipel.gr/unistudent/login.asp
+  - name: Πάντειο Πανεπιστήμιο
+    url: https://foit.panteion.gr/declare/Login.aspx
+    __dangerous__insecure: true
+  - name: Πολυτεχνείο Κρήτης
+    url: https://universis-api.tuc.gr/api
+  - name: Πρώην ΤΕΙ Δυτικής Ελλάδας
+    url: https://e-students.teiwest.gr/
+  - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
+    url: https://e-studies.hua.gr/unistudent/
+    __dangerous__insecure: true
 
 assignees: # Users to assign downtime issues (optional)
   - donfn
