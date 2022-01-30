@@ -1,7 +1,7 @@
 url: https://egram.cm.ihu.gr/unistudent/
-status: up
-code: 200
-responseTime: 1581
-lastUpdated: 2022-01-30T17:42:28.062Z
+status: down
+code: 500
+responseTime: 1090
+lastUpdated: 2022-01-30T18:06:02.145Z
 startTime: Sat Jan 29 2022 00:20:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
