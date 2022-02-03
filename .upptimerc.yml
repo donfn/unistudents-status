@@ -59,7 +59,9 @@ sites:
   - name: Πολυτεχνείο Κρήτης
     url: https://universis-api.tuc.gr/api
   - name: Πρώην ΤΕΙ Δυτικής Ελλάδας
-    url: https://e-students.teiwest.gr/favicon.ico
+    check: "tcp-ping"
+    url: 195.251.8.50
+    port: 443
   - name: Χαροκόπειο Πανεπιστήμιο Αθηνών
     url: https://e-studies.hua.gr/unistudent/
     __dangerous__insecure: true
