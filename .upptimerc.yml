@@ -16,7 +16,9 @@ sites:
   - name: Διεθνές Πανεπιστήμιο Αθηνών (TEITHE)
     url: http://pithia.teithe.gr/unistudent/
   - name: Διεθνές Πανεπιστήμιο Αθηνών (CM)
-    url: https://egram.cm.ihu.gr/unistudent/
+    check: "tcp-ping"
+    url: 83.212.60.104
+    port: 443
   - name: Διεθνές Πανεπιστήμιο Αθηνών (TEIEMT)
     url: https://e-secretariat.teiemt.gr/unistudent/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
