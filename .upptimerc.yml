@@ -15,7 +15,7 @@ sites:
     url: https://oauth.duth.gr/login
   - name: Διεθνές Πανεπιστήμιο Αθηνών (TEITHE)
     url: http://pithia.teithe.gr/unistudent/
-  - name: Διεθνές Πανεπιστήμιο Αθηνών (CM)
+  - name: Διεθνές Πανεπιστήμιο Αθηνών (CM) (TCP Ping)
     check: "tcp-ping"
     url: 83.212.60.104
     port: 443
@@ -60,7 +60,7 @@ sites:
     __dangerous__insecure: true
   - name: Πολυτεχνείο Κρήτης
     url: https://universis-api.tuc.gr/api
-  - name: Πρώην ΤΕΙ Δυτικής Ελλάδας
+  - name: Πρώην ΤΕΙ Δυτικής Ελλάδας (TCP Ping)
     check: "tcp-ping"
     url: 195.251.8.50
     port: 443
