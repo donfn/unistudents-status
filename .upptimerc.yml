@@ -13,13 +13,13 @@ sites:
     url: https://unistudent.aua.gr/
   - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
     url: https://oauth.duth.gr/login
-  - name: Διεθνές Πανεπιστήμιο Αθηνών (TEITHE)
+  - name: Διεθνές Πανεπιστήμιο Ελλάδος (TEITHE)
     url: http://pithia.teithe.gr/unistudent/
-  - name: Διεθνές Πανεπιστήμιο Αθηνών (CM) (TCP Ping)
+  - name: Διεθνές Πανεπιστήμιο Ελλάδος (CM) (TCP Ping)
     check: "tcp-ping"
     url: 83.212.60.104
     port: 443
-  - name: Διεθνές Πανεπιστήμιο Αθηνών (TEIEMT)
+  - name: Διεθνές Πανεπιστήμιο Ελλάδος (TEIEMT)
     url: https://e-secretariat.teiemt.gr/unistudent/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
     url: https://backend.central.ntua.gr/
