@@ -4,7 +4,7 @@ repo: unistudents-status # The name of this repository
 
 sites:
   - name: Υπηρεσία Νέων & Ανακοινώσεων (UniNews)
-    url: https://gohan.unistudents.gr
+    url: gohan.unistudents.gr/metrics/uptime
   - name: Α.Σ.ΠΑΙ.Τ.Ε
     url: https://studentweb.aspete.gr/
   - name: Αριστοτέλειο Πανεπιστήμιο
