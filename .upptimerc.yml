@@ -69,7 +69,7 @@ sites:
     __dangerous__insecure: true
     
 status-website:
-  theme: ocean
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.unistudents.gr
