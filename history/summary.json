@@ -150,18 +150,18 @@
     "icon": "https://favicons.githubusercontent.com/e-secretariat.teiemt.gr",
     "slug": "diethnes-panepistimio-ellados-teiemt",
     "status": "down",
-    "uptime": "60.35%",
+    "uptime": "60.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.65%",
-    "uptimeMonth": "60.35%",
-    "uptimeYear": "60.35%",
+    "uptimeWeek": "49.57%",
+    "uptimeMonth": "60.32%",
+    "uptimeYear": "60.32%",
     "time": 7083,
     "timeDay": 0,
     "timeWeek": 9298,
     "timeMonth": 7083,
     "timeYear": 7083,
     "dailyMinutesDown": {
-      "2022-02-19": 1071,
+      "2022-02-19": 1078,
       "2022-02-18": 1303,
       "2022-02-17": 701,
       "2022-02-16": 1440,
@@ -196,10 +196,10 @@
     "url": "https://students.ece.ntua.gr/login",
     "icon": "https://favicons.githubusercontent.com/students.ece.ntua.gr",
     "slug": "ethniko-metsovio-polytexneio-symmi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "92.96%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
     "time": 1083,
@@ -208,7 +208,7 @@
     "timeMonth": 1083,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2022-02-19": 101
+      "2022-02-19": 102
     }
   },
   {
