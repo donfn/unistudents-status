@@ -13,7 +13,7 @@
     "time": 802,
     "timeDay": 286,
     "timeWeek": 347,
-    "timeMonth": 639,
+    "timeMonth": 644,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-02-28": 7,
@@ -28,18 +28,18 @@
     "icon": "https://favicons.githubusercontent.com/studentweb.aspete.gr",
     "slug": "a-s-pai-t-e",
     "status": "down",
-    "uptime": "52.75%",
+    "uptime": "52.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "46.81%",
-    "uptimeYear": "52.75%",
+    "uptimeYear": "52.74%",
     "time": 1429,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1389,
     "timeYear": 1429,
     "dailyMinutesDown": {
-      "2022-03-11": 812,
+      "2022-03-11": 821,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
@@ -85,7 +85,7 @@
     "time": 1499,
     "timeDay": 2459,
     "timeWeek": 1738,
-    "timeMonth": 1456,
+    "timeMonth": 1452,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2022-02-28": 214,
@@ -106,7 +106,7 @@
     "time": 2765,
     "timeDay": 3611,
     "timeWeek": 2988,
-    "timeMonth": 2627,
+    "timeMonth": 2638,
     "timeYear": 2765,
     "dailyMinutesDown": {
       "2022-03-10": 7,
@@ -130,7 +130,7 @@
     "time": 1705,
     "timeDay": 2203,
     "timeWeek": 1319,
-    "timeMonth": 1895,
+    "timeMonth": 1902,
     "timeYear": 1705,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "time": 1392,
     "timeDay": 1637,
     "timeWeek": 1638,
-    "timeMonth": 1381,
+    "timeMonth": 1383,
     "timeYear": 1392,
     "dailyMinutesDown": {
       "2022-02-25": 6,
@@ -179,15 +179,15 @@
     "icon": "https://favicons.githubusercontent.com/e-secretariat.teiemt.gr",
     "slug": "diethnes-panepistimio-ellados-teiemt",
     "status": "up",
-    "uptime": "32.05%",
+    "uptime": "32.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.77%",
+    "uptimeWeek": "30.86%",
     "uptimeMonth": "32.82%",
-    "uptimeYear": "32.05%",
+    "uptimeYear": "32.06%",
     "time": 7088,
     "timeDay": 6763,
     "timeWeek": 6902,
-    "timeMonth": 7355,
+    "timeMonth": 7622,
     "timeYear": 7088,
     "dailyMinutesDown": {
       "2022-03-09": 1111,
@@ -232,7 +232,7 @@
     "time": 1520,
     "timeDay": 2261,
     "timeWeek": 1695,
-    "timeMonth": 1559,
+    "timeMonth": 1563,
     "timeYear": 1520,
     "dailyMinutesDown": {
       "2022-02-19": 15
@@ -252,7 +252,7 @@
     "time": 1093,
     "timeDay": 1101,
     "timeWeek": 1237,
-    "timeMonth": 1087,
+    "timeMonth": 1090,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2022-02-19": 133
@@ -272,7 +272,7 @@
     "time": 845,
     "timeDay": 1015,
     "timeWeek": 941,
-    "timeMonth": 829,
+    "timeMonth": 831,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2022-02-01": 52
@@ -292,7 +292,7 @@
     "time": 1268,
     "timeDay": 1232,
     "timeWeek": 1375,
-    "timeMonth": 1255,
+    "timeMonth": 1258,
     "timeYear": 1268,
     "dailyMinutesDown": {}
   },
@@ -310,7 +310,7 @@
     "time": 1555,
     "timeDay": 2110,
     "timeWeek": 1704,
-    "timeMonth": 1525,
+    "timeMonth": 1531,
     "timeYear": 1555,
     "dailyMinutesDown": {
       "2022-02-07": 43
@@ -330,7 +330,7 @@
     "time": 1991,
     "timeDay": 2634,
     "timeWeek": 2161,
-    "timeMonth": 1926,
+    "timeMonth": 1935,
     "timeYear": 1991,
     "dailyMinutesDown": {
       "2022-02-07": 16
@@ -350,7 +350,7 @@
     "time": 1081,
     "timeDay": 1144,
     "timeWeek": 1115,
-    "timeMonth": 1054,
+    "timeMonth": 1056,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2022-03-11": 92,
@@ -373,7 +373,7 @@
     "time": 1057,
     "timeDay": 1247,
     "timeWeek": 1061,
-    "timeMonth": 1018,
+    "timeMonth": 1020,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2022-02-25": 233
@@ -393,7 +393,7 @@
     "time": 1213,
     "timeDay": 1412,
     "timeWeek": 1232,
-    "timeMonth": 1156,
+    "timeMonth": 1161,
     "timeYear": 1213,
     "dailyMinutesDown": {
       "2022-02-25": 163
@@ -413,7 +413,7 @@
     "time": 1938,
     "timeDay": 2385,
     "timeWeek": 1955,
-    "timeMonth": 2021,
+    "timeMonth": 2033,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2022-03-02": 100,
@@ -436,7 +436,7 @@
     "time": 3065,
     "timeDay": 1729,
     "timeWeek": 2518,
-    "timeMonth": 2685,
+    "timeMonth": 2698,
     "timeYear": 3065,
     "dailyMinutesDown": {
       "2022-03-11": 6,
@@ -480,19 +480,19 @@
     "url": "https://classweb.uoi.gr/",
     "icon": "https://favicons.githubusercontent.com/classweb.uoi.gr",
     "slug": "panepistimio-ioanninon",
-    "status": "down",
-    "uptime": "97.82%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.82%",
-    "time": 2230,
-    "timeDay": 1885,
-    "timeWeek": 2278,
-    "timeMonth": 2170,
-    "timeYear": 2230,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "97.81%",
+    "time": 2232,
+    "timeDay": 2044,
+    "timeWeek": 2288,
+    "timeMonth": 2192,
+    "timeYear": 2232,
     "dailyMinutesDown": {
-      "2022-03-11": 1,
+      "2022-03-11": 9,
       "2022-02-08": 32,
       "2022-02-03": 491,
       "2022-02-02": 779
@@ -512,7 +512,7 @@
     "time": 3896,
     "timeDay": 5597,
     "timeWeek": 4464,
-    "timeMonth": 3706,
+    "timeMonth": 3741,
     "timeYear": 3896,
     "dailyMinutesDown": {
       "2022-03-08": 12,
@@ -534,7 +534,7 @@
     "time": 2210,
     "timeDay": 2324,
     "timeWeek": 2081,
-    "timeMonth": 2297,
+    "timeMonth": 2310,
     "timeYear": 2210,
     "dailyMinutesDown": {
       "2022-02-27": 23,
@@ -555,7 +555,7 @@
     "time": 1663,
     "timeDay": 2081,
     "timeWeek": 1812,
-    "timeMonth": 1596,
+    "timeMonth": 1590,
     "timeYear": 1663,
     "dailyMinutesDown": {
       "2022-02-09": 82
@@ -575,7 +575,7 @@
     "time": 1419,
     "timeDay": 2499,
     "timeWeek": 2197,
-    "timeMonth": 1460,
+    "timeMonth": 1470,
     "timeYear": 1419,
     "dailyMinutesDown": {}
   },
@@ -585,18 +585,18 @@
     "icon": "https://favicons.githubusercontent.com/www.webgram.teipel.gr",
     "slug": "panepistimio-peloponnisoy-teipel",
     "status": "down",
-    "uptime": "94.83%",
+    "uptime": "94.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.31%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "94.83%",
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "94.82%",
     "time": 3891,
     "timeDay": 1561,
     "timeWeek": 3287,
-    "timeMonth": 3809,
+    "timeMonth": 3821,
     "timeYear": 3891,
     "dailyMinutesDown": {
-      "2022-03-11": 812,
+      "2022-03-11": 821,
       "2022-03-10": 1440,
       "2022-03-09": 842
     }
@@ -607,15 +607,15 @@
     "icon": "https://favicons.githubusercontent.com/foit.panteion.gr",
     "slug": "panteio-panepistimio",
     "status": "up",
-    "uptime": "93.97%",
-    "uptimeDay": "92.54%",
-    "uptimeWeek": "94.81%",
+    "uptime": "93.98%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "94.89%",
     "uptimeMonth": "93.56%",
-    "uptimeYear": "93.97%",
+    "uptimeYear": "93.98%",
     "time": 1742,
     "timeDay": 1323,
     "timeWeek": 3320,
-    "timeMonth": 2028,
+    "timeMonth": 2045,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2022-03-10": 107,
@@ -675,7 +675,7 @@
     "time": 1691,
     "timeDay": 1695,
     "timeWeek": 1387,
-    "timeMonth": 1769,
+    "timeMonth": 1787,
     "timeYear": 1691,
     "dailyMinutesDown": {
       "2022-03-11": 98,
@@ -717,7 +717,7 @@
     "time": 2250,
     "timeDay": 2813,
     "timeWeek": 2362,
-    "timeMonth": 2158,
+    "timeMonth": 2161,
     "timeYear": 2250,
     "dailyMinutesDown": {
       "2022-03-08": 36,
