@@ -7,6 +7,7 @@ sites:
     url: https://gohan.unistudents.gr/metrics/uptime
   - name: Α.Σ.ΠΑΙ.Τ.Ε
     url: https://studentweb.aspete.gr/
+    __dangerous__insecure: true
   - name: Αριστοτέλειο Πανεπιστήμιο
     url: https://universis-api.it.auth.gr/api
   - name: Γεωπονικό Πανεπιστήμιο Αθηνών
