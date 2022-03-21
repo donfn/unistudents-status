@@ -16,12 +16,8 @@ sites:
     url: https://oauth.duth.gr/login
   - name: Διεθνές Πανεπιστήμιο Ελλάδος (TEITHE)
     url: http://pithia.teithe.gr/unistudent/
-  - name: Διεθνές Πανεπιστήμιο Ελλάδος (CM) (TCP Ping)
-    check: "tcp-ping"
-    url: 83.212.60.104
-    port: 443
-  - name: Διεθνές Πανεπιστήμιο Ελλάδος (TEIEMT)
-    url: https://e-secretariat.teiemt.gr/unistudent/
+  - name: Διεθνές Πανεπιστήμιο Ελλάδος (UNIPORTAL)
+    url: https://uniportal.ihu.gr/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
     url: https://backend.central.ntua.gr/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο (ΣΥΜΜΗ)
