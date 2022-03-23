@@ -1,7 +1,7 @@
 url: https://students.unipi.gr/
-status: up
-code: 200
-responseTime: 1316
-lastUpdated: 2022-03-22T23:21:14.968Z
+status: down
+code: 500
+responseTime: 1399
+lastUpdated: 2022-03-23T07:50:34.897Z
 startTime: Sat Jan 29 2022 00:21:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
