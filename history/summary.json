@@ -268,18 +268,18 @@
     "icon": "https://favicons.githubusercontent.com/universis-api.hmu.gr",
     "slug": "elliniko-mesogeiako-panepistimio",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 1270,
     "timeDay": 1531,
     "timeWeek": 1160,
     "timeMonth": 1284,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2022-04-22": 1,
+      "2022-04-22": 8,
       "2022-04-21": 23
     }
   },
@@ -645,7 +645,7 @@
     "timeMonth": 1325,
     "timeYear": 2767,
     "dailyMinutesDown": {
-      "2022-04-22": 356,
+      "2022-04-22": 363,
       "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
@@ -697,18 +697,19 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://favicons.githubusercontent.com/foit.panteion.gr",
     "slug": "panteio-panepistimio",
-    "status": "up",
-    "uptime": "94.95%",
-    "uptimeDay": "87.38%",
-    "uptimeWeek": "94.56%",
+    "status": "down",
+    "uptime": "94.97%",
+    "uptimeDay": "87.34%",
+    "uptimeWeek": "94.55%",
     "uptimeMonth": "94.91%",
-    "uptimeYear": "94.95%",
+    "uptimeYear": "94.97%",
     "time": 1513,
     "timeDay": 3680,
     "timeWeek": 1568,
     "timeMonth": 1247,
     "timeYear": 1513,
     "dailyMinutesDown": {
+      "2022-04-22": 1,
       "2022-04-21": 182,
       "2022-04-20": 34,
       "2022-04-19": 20,
@@ -782,7 +783,7 @@
       "2022-02-09": 58,
       "2022-02-08": 24,
       "2022-02-07": 29,
-      "2022-02-06": 92
+      "2022-02-06": 62
     }
   },
   {
