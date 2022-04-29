@@ -50,8 +50,8 @@ sites:
     url: https://students.unipi.gr/
   - name: Πανεπιστήμιο Πελοποννήσου (Cardisoft)
     url: https://e-secretary.uop.gr/UniStudent/
-  - name: Πανεπιστήμιο Πελοποννήσου (TEIPEL)
-    url: http://www.webgram.teipel.gr/unistudent/login.asp
+#   - name: Πανεπιστήμιο Πελοποννήσου (TEIPEL)
+#     url: http://www.webgram.teipel.gr/unistudent/login.asp
   - name: Πάντειο Πανεπιστήμιο
     url: https://foit.panteion.gr/declare/Login.aspx
     __dangerous__insecure: true
