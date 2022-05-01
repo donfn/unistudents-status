@@ -13,7 +13,7 @@
     "time": 557,
     "timeDay": 272,
     "timeWeek": 286,
-    "timeMonth": 290,
+    "timeMonth": 289,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2022-04-30": 31,
@@ -33,11 +33,11 @@
     "icon": "https://favicons.githubusercontent.com/studentweb.aspete.gr",
     "slug": "a-s-pai-t-e",
     "status": "up",
-    "uptime": "75.74%",
+    "uptime": "75.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "75.74%",
+    "uptimeMonth": "91.51%",
+    "uptimeYear": "75.75%",
     "time": 1395,
     "timeDay": 1713,
     "timeWeek": 1580,
@@ -105,7 +105,7 @@
     "time": 1482,
     "timeDay": 1638,
     "timeWeek": 1463,
-    "timeMonth": 1385,
+    "timeMonth": 1390,
     "timeYear": 1482,
     "dailyMinutesDown": {
       "2022-02-28": 214,
@@ -126,7 +126,7 @@
     "time": 2595,
     "timeDay": 2922,
     "timeWeek": 2414,
-    "timeMonth": 2352,
+    "timeMonth": 2346,
     "timeYear": 2595,
     "dailyMinutesDown": {
       "2022-03-28": 20,
@@ -154,7 +154,7 @@
     "time": 1646,
     "timeDay": 931,
     "timeWeek": 985,
-    "timeMonth": 1465,
+    "timeMonth": 1458,
     "timeYear": 1646,
     "dailyMinutesDown": {}
   },
@@ -172,7 +172,7 @@
     "time": 1464,
     "timeDay": 2463,
     "timeWeek": 1531,
-    "timeMonth": 1521,
+    "timeMonth": 1528,
     "timeYear": 1464,
     "dailyMinutesDown": {
       "2022-03-24": 6,
@@ -195,7 +195,7 @@
     "time": 1531,
     "timeDay": 1903,
     "timeWeek": 1695,
-    "timeMonth": 1496,
+    "timeMonth": 1495,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2022-04-26": 201,
@@ -219,7 +219,7 @@
     "time": 1458,
     "timeDay": 1374,
     "timeWeek": 1498,
-    "timeMonth": 1372,
+    "timeMonth": 1356,
     "timeYear": 1458,
     "dailyMinutesDown": {
       "2022-02-19": 15
@@ -239,7 +239,7 @@
     "time": 1066,
     "timeDay": 1346,
     "timeWeek": 1025,
-    "timeMonth": 989,
+    "timeMonth": 996,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2022-02-19": 133
@@ -259,7 +259,7 @@
     "time": 862,
     "timeDay": 1068,
     "timeWeek": 891,
-    "timeMonth": 857,
+    "timeMonth": 860,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2022-02-01": 52
@@ -279,7 +279,7 @@
     "time": 1478,
     "timeDay": 1681,
     "timeWeek": 3785,
-    "timeMonth": 1959,
+    "timeMonth": 1976,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2022-04-26": 139,
@@ -302,7 +302,7 @@
     "time": 1563,
     "timeDay": 1876,
     "timeWeek": 1635,
-    "timeMonth": 1552,
+    "timeMonth": 1562,
     "timeYear": 1563,
     "dailyMinutesDown": {
       "2022-04-24": 20,
@@ -327,7 +327,7 @@
     "time": 1995,
     "timeDay": 2582,
     "timeWeek": 2037,
-    "timeMonth": 1986,
+    "timeMonth": 1997,
     "timeYear": 1995,
     "dailyMinutesDown": {
       "2022-04-16": 19,
@@ -349,7 +349,7 @@
     "time": 1084,
     "timeDay": 1217,
     "timeWeek": 1061,
-    "timeMonth": 1089,
+    "timeMonth": 1095,
     "timeYear": 1084,
     "dailyMinutesDown": {
       "2022-04-09": 19,
@@ -373,7 +373,7 @@
     "time": 1049,
     "timeDay": 1216,
     "timeWeek": 1130,
-    "timeMonth": 1046,
+    "timeMonth": 1050,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2022-02-25": 233
@@ -393,7 +393,7 @@
     "time": 1203,
     "timeDay": 1423,
     "timeWeek": 1247,
-    "timeMonth": 1173,
+    "timeMonth": 1179,
     "timeYear": 1203,
     "dailyMinutesDown": {
       "2022-03-14": 124,
@@ -414,7 +414,7 @@
     "time": 1797,
     "timeDay": 2063,
     "timeWeek": 1684,
-    "timeMonth": 1639,
+    "timeMonth": 1646,
     "timeYear": 1797,
     "dailyMinutesDown": {
       "2022-03-29": 6,
@@ -436,12 +436,12 @@
     "uptime": "92.43%",
     "uptimeDay": "99.32%",
     "uptimeWeek": "92.03%",
-    "uptimeMonth": "97.68%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "92.43%",
     "time": 3055,
     "timeDay": 8523,
-    "timeWeek": 5968,
-    "timeMonth": 3938,
+    "timeWeek": 6162,
+    "timeMonth": 4020,
     "timeYear": 3055,
     "dailyMinutesDown": {
       "2022-04-30": 10,
@@ -516,12 +516,12 @@
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "98.80%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "98.57%",
     "time": 2293,
     "timeDay": 2761,
     "timeWeek": 2267,
-    "timeMonth": 2462,
+    "timeMonth": 2490,
     "timeYear": 2293,
     "dailyMinutesDown": {
       "2022-04-29": 38,
@@ -565,7 +565,7 @@
     "time": 4284,
     "timeDay": 3873,
     "timeWeek": 3561,
-    "timeMonth": 4211,
+    "timeMonth": 4238,
     "timeYear": 4284,
     "dailyMinutesDown": {
       "2022-04-14": 468,
@@ -593,7 +593,7 @@
     "time": 2148,
     "timeDay": 4522,
     "timeWeek": 2543,
-    "timeMonth": 2110,
+    "timeMonth": 2128,
     "timeYear": 2148,
     "dailyMinutesDown": {
       "2022-04-30": 6,
@@ -619,7 +619,7 @@
     "time": 1752,
     "timeDay": 2010,
     "timeWeek": 1569,
-    "timeMonth": 1572,
+    "timeMonth": 1578,
     "timeYear": 1752,
     "dailyMinutesDown": {
       "2022-03-30": 27,
@@ -642,7 +642,7 @@
     "time": 1541,
     "timeDay": 1558,
     "timeWeek": 1934,
-    "timeMonth": 1653,
+    "timeMonth": 1580,
     "timeYear": 1541,
     "dailyMinutesDown": {
       "2022-04-28": 9
@@ -655,14 +655,14 @@
     "slug": "panteio-panepistimio",
     "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "80.54%",
+    "uptimeDay": "86.18%",
     "uptimeWeek": "95.11%",
-    "uptimeMonth": "94.89%",
+    "uptimeMonth": "94.93%",
     "uptimeYear": "95.30%",
     "time": 1469,
     "timeDay": 1016,
     "timeWeek": 1081,
-    "timeMonth": 1203,
+    "timeMonth": 1190,
     "timeYear": 1469,
     "dailyMinutesDown": {
       "2022-04-30": 263,
@@ -755,7 +755,7 @@
     "time": 1774,
     "timeDay": 1096,
     "timeWeek": 3679,
-    "timeMonth": 1788,
+    "timeMonth": 1807,
     "timeYear": 1774,
     "dailyMinutesDown": {
       "2022-04-25": 8,
@@ -797,12 +797,12 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.68%",
     "time": 2290,
     "timeDay": 2933,
     "timeWeek": 2289,
-    "timeMonth": 2183,
+    "timeMonth": 2231,
     "timeYear": 2290,
     "dailyMinutesDown": {
       "2022-04-26": 7,
