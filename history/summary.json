@@ -12,7 +12,7 @@
     "uptimeYear": "99.82%",
     "time": 542,
     "timeDay": 306,
-    "timeWeek": 298,
+    "timeWeek": 301,
     "timeMonth": 295,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -665,19 +665,19 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://favicons.githubusercontent.com/foit.panteion.gr",
     "slug": "panteio-panepistimio",
-    "status": "up",
-    "uptime": "95.74%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "93.37%",
+    "status": "down",
+    "uptime": "95.84%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "93.36%",
     "uptimeMonth": "95.01%",
-    "uptimeYear": "95.74%",
+    "uptimeYear": "95.84%",
     "time": 1440,
     "timeDay": 1069,
     "timeWeek": 1041,
     "timeMonth": 1182,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2022-05-06": 12,
+      "2022-05-06": 13,
       "2022-05-05": 19,
       "2022-05-04": 116,
       "2022-05-03": 16,
@@ -752,8 +752,7 @@
       "2022-02-23": 165,
       "2022-02-22": 25,
       "2022-02-21": 64,
-      "2022-02-20": 163,
-      "2022-02-19": 12
+      "2022-02-20": 37
     }
   },
   {
