@@ -1,7 +1,7 @@
 url: https://gohan.unistudents.gr/metrics/uptime
-status: down
-code: 503
-responseTime: 202
-lastUpdated: 2022-05-17T04:29:30.524Z
+status: up
+code: 200
+responseTime: 277
+lastUpdated: 2022-05-17T04:59:31.773Z
 startTime: Fri Jan 28 2022 17:53:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
