@@ -1,7 +1,7 @@
 url: https://studentweb.aspete.gr/
-status: up
-code: 200
-responseTime: 1610
-lastUpdated: 2022-05-22T06:34:40.245Z
+status: down
+code: 500
+responseTime: 762
+lastUpdated: 2022-05-22T06:51:51.127Z
 startTime: Sat Jan 29 2022 00:20:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
