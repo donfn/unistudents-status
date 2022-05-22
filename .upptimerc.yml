@@ -16,8 +16,6 @@ sites:
     url: https://unistudent.aua.gr/
   - name: Δημοκρίτειο Πανεπιστήμιο Θράκης
     url: https://oauth.duth.gr/login
-  - name: Διεθνές Πανεπιστήμιο Ελλάδος (TEITHE)
-    url: http://pithia.teithe.gr/unistudent/
   - name: Διεθνές Πανεπιστήμιο Ελλάδος (UNIPORTAL)
     url: https://uniportal.ihu.gr/
   - name: Εθνικό Μετσόβιο Πολυτεχνείο
