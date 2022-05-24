@@ -64,19 +64,19 @@
     "url": "https://studentweb.aspete.gr/",
     "icon": "https://favicons.githubusercontent.com/studentweb.aspete.gr",
     "slug": "a-s-pai-t-e",
-    "status": "up",
-    "uptime": "96.06%",
-    "uptimeDay": "54.46%",
-    "uptimeWeek": "42.05%",
-    "uptimeMonth": "85.10%",
-    "uptimeYear": "96.06%",
+    "status": "down",
+    "uptime": "96.14%",
+    "uptimeDay": "57.98%",
+    "uptimeWeek": "42.04%",
+    "uptimeMonth": "85.38%",
+    "uptimeYear": "96.14%",
     "time": 1737,
     "timeDay": 4630,
     "timeWeek": 1886,
     "timeMonth": 2222,
     "timeYear": 1737,
     "dailyMinutesDown": {
-      "2022-05-24": 1,
+      "2022-05-24": 2,
       "2022-05-23": 713,
       "2022-05-22": 946,
       "2022-05-21": 936,
@@ -84,7 +84,7 @@
       "2022-05-19": 664,
       "2022-05-18": 992,
       "2022-05-17": 885,
-      "2022-05-16": 684
+      "2022-05-16": 560
     }
   },
   {
