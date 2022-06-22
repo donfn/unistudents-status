@@ -6,14 +6,14 @@
     "slug": "ypiresia-neon-and-anakoinoseon-uni-news",
     "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "97.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "90.64%",
     "uptimeYear": "97.65%",
     "time": 460,
-    "timeDay": 303,
+    "timeDay": 290,
     "timeWeek": 418,
-    "timeMonth": 420,
+    "timeMonth": 426,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2022-06-21": 36,
@@ -61,12 +61,12 @@
     "uptime": "95.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.62%",
+    "uptimeMonth": "88.10%",
     "uptimeYear": "95.23%",
     "time": 1726,
     "timeDay": 1412,
     "timeWeek": 1552,
-    "timeMonth": 2168,
+    "timeMonth": 2253,
     "timeYear": 1726,
     "dailyMinutesDown": {
       "2022-06-14": 302,
@@ -100,7 +100,7 @@
     "time": 1500,
     "timeDay": 1138,
     "timeWeek": 1464,
-    "timeMonth": 1514,
+    "timeMonth": 1488,
     "timeYear": 1500,
     "dailyMinutesDown": {
       "2022-05-18": 9,
@@ -125,7 +125,7 @@
     "time": 2527,
     "timeDay": 1714,
     "timeWeek": 2174,
-    "timeMonth": 2391,
+    "timeMonth": 2381,
     "timeYear": 2527,
     "dailyMinutesDown": {
       "2022-03-28": 20,
@@ -153,7 +153,7 @@
     "time": 1703,
     "timeDay": 1592,
     "timeWeek": 1508,
-    "timeMonth": 1877,
+    "timeMonth": 1779,
     "timeYear": 1703,
     "dailyMinutesDown": {}
   },
@@ -171,7 +171,7 @@
     "time": 1604,
     "timeDay": 1431,
     "timeWeek": 1561,
-    "timeMonth": 1676,
+    "timeMonth": 1667,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2022-06-05": 6,
@@ -198,7 +198,7 @@
     "time": 1452,
     "timeDay": 1419,
     "timeWeek": 1326,
-    "timeMonth": 1445,
+    "timeMonth": 1413,
     "timeYear": 1452,
     "dailyMinutesDown": {
       "2022-02-19": 15
@@ -218,7 +218,7 @@
     "time": 1050,
     "timeDay": 856,
     "timeWeek": 891,
-    "timeMonth": 1026,
+    "timeMonth": 1005,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2022-02-19": 133
@@ -258,7 +258,7 @@
     "time": 1589,
     "timeDay": 1193,
     "timeWeek": 1315,
-    "timeMonth": 1310,
+    "timeMonth": 1279,
     "timeYear": 1589,
     "dailyMinutesDown": {
       "2022-05-04": 6,
@@ -284,7 +284,7 @@
     "time": 1560,
     "timeDay": 1335,
     "timeWeek": 1496,
-    "timeMonth": 1553,
+    "timeMonth": 1538,
     "timeYear": 1560,
     "dailyMinutesDown": {
       "2022-06-18": 12,
@@ -317,7 +317,7 @@
     "time": 2005,
     "timeDay": 1717,
     "timeWeek": 1954,
-    "timeMonth": 2063,
+    "timeMonth": 2031,
     "timeYear": 2005,
     "dailyMinutesDown": {
       "2022-05-21": 6,
@@ -340,7 +340,7 @@
     "time": 1072,
     "timeDay": 922,
     "timeWeek": 1033,
-    "timeMonth": 1070,
+    "timeMonth": 1061,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2022-06-17": 69,
@@ -368,7 +368,7 @@
     "time": 1053,
     "timeDay": 937,
     "timeWeek": 1050,
-    "timeMonth": 1077,
+    "timeMonth": 1066,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2022-02-25": 233
@@ -388,7 +388,7 @@
     "time": 1192,
     "timeDay": 958,
     "timeWeek": 1150,
-    "timeMonth": 1173,
+    "timeMonth": 1158,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-03-14": 124,
@@ -409,7 +409,7 @@
     "time": 1766,
     "timeDay": 1515,
     "timeWeek": 1671,
-    "timeMonth": 1710,
+    "timeMonth": 1698,
     "timeYear": 1766,
     "dailyMinutesDown": {
       "2022-05-25": 37,
@@ -430,14 +430,14 @@
     "slug": "panepistimio-dytikis-makedonias",
     "status": "up",
     "uptime": "95.33%",
-    "uptimeDay": "48.70%",
+    "uptimeDay": "51.74%",
     "uptimeWeek": "71.02%",
     "uptimeMonth": "91.42%",
     "uptimeYear": "95.33%",
     "time": 2979,
-    "timeDay": 1305,
+    "timeDay": 1157,
     "timeWeek": 1378,
-    "timeMonth": 2399,
+    "timeMonth": 2427,
     "timeYear": 2979,
     "dailyMinutesDown": {
       "2022-06-22": 294,
@@ -541,7 +541,7 @@
     "time": 2495,
     "timeDay": 1830,
     "timeWeek": 2142,
-    "timeMonth": 3096,
+    "timeMonth": 3162,
     "timeYear": 2495,
     "dailyMinutesDown": {
       "2022-06-03": 6,
@@ -606,7 +606,7 @@
     "time": 4461,
     "timeDay": 8617,
     "timeWeek": 5585,
-    "timeMonth": 5282,
+    "timeMonth": 5462,
     "timeYear": 4461,
     "dailyMinutesDown": {
       "2022-06-22": 73,
@@ -642,7 +642,7 @@
     "time": 2096,
     "timeDay": 1534,
     "timeWeek": 1830,
-    "timeMonth": 1982,
+    "timeMonth": 1961,
     "timeYear": 2096,
     "dailyMinutesDown": {
       "2022-05-14": 33,
@@ -669,7 +669,7 @@
     "time": 1773,
     "timeDay": 1449,
     "timeWeek": 2095,
-    "timeMonth": 1909,
+    "timeMonth": 1938,
     "timeYear": 1773,
     "dailyMinutesDown": {
       "2022-06-03": 28,
@@ -693,7 +693,7 @@
     "time": 1621,
     "timeDay": 1160,
     "timeWeek": 1693,
-    "timeMonth": 1802,
+    "timeMonth": 1841,
     "timeYear": 1621,
     "dailyMinutesDown": {
       "2022-06-10": 43,
@@ -718,7 +718,7 @@
     "time": 1444,
     "timeDay": 915,
     "timeWeek": 1717,
-    "timeMonth": 1472,
+    "timeMonth": 1492,
     "timeYear": 1444,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -816,18 +816,19 @@
     "url": "https://universis-api.tuc.gr/api",
     "icon": "https://favicons.githubusercontent.com/universis-api.tuc.gr",
     "slug": "polytexneio-kritis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.76%",
-    "time": 1778,
-    "timeDay": 1023,
-    "timeWeek": 4878,
-    "timeMonth": 2166,
-    "timeYear": 1778,
+    "time": 1880,
+    "timeDay": 11544,
+    "timeWeek": 6310,
+    "timeMonth": 2801,
+    "timeYear": 1880,
     "dailyMinutesDown": {
+      "2022-06-22": 1,
       "2022-06-17": 16,
       "2022-06-16": 13,
       "2022-05-02": 6,
@@ -857,7 +858,7 @@
     "time": 155,
     "timeDay": 138,
     "timeWeek": 148,
-    "timeMonth": 159,
+    "timeMonth": 157,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2022-06-21": 19,
@@ -881,7 +882,7 @@
     "time": 2276,
     "timeDay": 2048,
     "timeWeek": 2076,
-    "timeMonth": 2266,
+    "timeMonth": 2236,
     "timeYear": 2276,
     "dailyMinutesDown": {
       "2022-06-21": 7,
