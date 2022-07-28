@@ -1,7 +1,7 @@
 url: https://e-studies.hua.gr/unistudent/
-status: up
-code: 200
-responseTime: 3577
-lastUpdated: 2022-07-27T23:21:56.529Z
+status: down
+code: 503
+responseTime: 1642
+lastUpdated: 2022-07-28T19:36:39.841Z
 startTime: Fri Jan 28 2022 16:41:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
