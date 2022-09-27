@@ -1,7 +1,7 @@
 url: https://students.uowm.gr/
-status: up
-code: 200
-responseTime: 2225
-lastUpdated: 2022-09-26T23:50:32.121Z
+status: down
+code: 500
+responseTime: 1015
+lastUpdated: 2022-09-27T23:31:31.394Z
 startTime: Sat Jan 29 2022 00:21:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
