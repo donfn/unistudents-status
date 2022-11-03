@@ -1,7 +1,7 @@
 url: https://classweb.uoi.gr/
-status: up
-code: 200
-responseTime: 2362
-lastUpdated: 2022-11-03T17:57:23.819Z
+status: down
+code: 503
+responseTime: 1198
+lastUpdated: 2022-11-03T18:17:48.957Z
 startTime: Sat Jan 29 2022 00:21:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
