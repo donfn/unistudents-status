@@ -526,7 +526,7 @@
     "timeMonth": 0,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2023-01-21": 1366,
+      "2023-01-21": 1389,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
@@ -636,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-01-21": 1366,
+      "2023-01-21": 1389,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
@@ -1206,10 +1206,10 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/foit.panteion.gr.ico",
     "slug": "panteio-panepistimio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "90.16%",
+    "uptimeDay": "85.24%",
+    "uptimeWeek": "90.15%",
     "uptimeMonth": "88.50%",
     "uptimeYear": "98.39%",
     "time": 1683,
@@ -1218,7 +1218,7 @@
     "timeMonth": 3858,
     "timeYear": 1683,
     "dailyMinutesDown": {
-      "2023-01-21": 163,
+      "2023-01-21": 164,
       "2023-01-20": 49,
       "2023-01-19": 663,
       "2023-01-18": 50,
@@ -1314,8 +1314,7 @@
       "2022-10-20": 26,
       "2022-10-19": 26,
       "2022-10-18": 26,
-      "2022-10-17": 26,
-      "2022-10-16": 23
+      "2022-10-17": 26
     }
   },
   {
