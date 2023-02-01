@@ -66,19 +66,19 @@
     "url": "https://studentweb.aspete.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
-    "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "96.54%",
+    "status": "down",
+    "uptime": "96.65%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "96.61%",
     "time": 2594,
     "timeDay": 5819,
     "timeWeek": 4914,
     "timeMonth": 6041,
     "timeYear": 2687,
     "dailyMinutesDown": {
-      "2023-02-01": 114,
+      "2023-02-01": 116,
       "2023-01-31": 34,
       "2023-01-27": 6,
       "2023-01-26": 30,
@@ -131,8 +131,7 @@
       "2022-05-25": 654,
       "2022-05-24": 1332,
       "2022-05-23": 713,
-      "2022-05-22": 946,
-      "2022-05-21": 148
+      "2022-05-22": 713
     }
   },
   {
@@ -533,7 +532,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sef.samos.aegean.gr.ico",
     "slug": "panepistimio-aigaioy-s-e-f",
     "status": "down",
-    "uptime": "73.51%",
+    "uptime": "73.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -544,7 +543,7 @@
     "timeMonth": 0,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2023-02-01": 656,
+      "2023-02-01": 662,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -665,7 +664,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-02-01": 656,
+      "2023-02-01": 662,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -1260,11 +1259,11 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/foit.panteion.gr.ico",
     "slug": "panteio-panepistimio",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "90.48%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "90.49%",
     "uptimeYear": "98.44%",
     "time": 1686,
     "timeDay": 869,
@@ -1272,6 +1271,7 @@
     "timeMonth": 3369,
     "timeYear": 1706,
     "dailyMinutesDown": {
+      "2023-02-01": 1,
       "2023-01-31": 20,
       "2023-01-30": 21,
       "2023-01-29": 19,
@@ -1368,8 +1368,7 @@
       "2022-10-29": 124,
       "2022-10-28": 103,
       "2022-10-27": 19,
-      "2022-10-26": 18,
-      "2022-10-25": 25
+      "2022-10-26": 18
     }
   },
   {
