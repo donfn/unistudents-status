@@ -66,19 +66,19 @@
     "url": "https://studentweb.aspete.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
-    "status": "up",
+    "status": "down",
     "uptime": "96.84%",
-    "uptimeDay": "76.33%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "96.79%",
+    "uptimeDay": "76.15%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "96.80%",
     "time": 2762,
     "timeDay": 9088,
     "timeWeek": 7032,
     "timeMonth": 6844,
     "timeYear": 2868,
     "dailyMinutesDown": {
-      "2023-02-03": 335,
+      "2023-02-03": 338,
       "2023-02-02": 62,
       "2023-02-01": 187,
       "2023-01-31": 34,
@@ -132,7 +132,7 @@
       "2022-06-06": 82,
       "2022-05-25": 654,
       "2022-05-24": 1332,
-      "2022-05-23": 13
+      "2022-05-23": 5
     }
   },
   {
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2023-02-03": 1060,
+      "2023-02-03": 1074,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -656,7 +656,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/icarus-icsd.aegean.gr.ico",
     "slug": "panepistimio-aigaioy-icarus",
     "status": "down",
-    "uptime": "64.83%",
+    "uptime": "64.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -667,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-02-03": 1060,
+      "2023-02-03": 1074,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
