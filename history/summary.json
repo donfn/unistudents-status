@@ -66,11 +66,11 @@
     "url": "https://studentweb.aspete.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
-    "status": "up",
+    "status": "down",
     "uptime": "97.81%",
-    "uptimeDay": "86.63%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "86.51%",
+    "uptimeWeek": "91.39%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "97.77%",
     "time": 2892,
     "timeDay": 8265,
@@ -78,7 +78,7 @@
     "timeMonth": 7055,
     "timeYear": 3012,
     "dailyMinutesDown": {
-      "2023-02-05": 13,
+      "2023-02-05": 15,
       "2023-02-04": 192,
       "2023-02-03": 383,
       "2023-02-02": 62,
@@ -114,7 +114,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 772,
-      "2022-09-01": 61
+      "2022-09-01": 40
     }
   },
   {
@@ -223,7 +223,7 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.95%",
+    "uptimeWeek": "96.02%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "98.54%",
     "time": 1712,
@@ -526,7 +526,7 @@
     "timeMonth": 0,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2023-02-05": 234,
+      "2023-02-05": 241,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -651,7 +651,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-02-05": 234,
+      "2023-02-05": 241,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -860,18 +860,19 @@
     "url": "https://students.uowm.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/students.uowm.gr.ico",
     "slug": "panepistimio-dytikis-makedonias",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "99.40%",
-    "time": 2912,
-    "timeDay": 1956,
-    "timeWeek": 1528,
-    "timeMonth": 2608,
-    "timeYear": 2844,
+    "uptimeYear": "99.43%",
+    "time": 2935,
+    "timeDay": 12006,
+    "timeWeek": 2897,
+    "timeMonth": 2605,
+    "timeYear": 2868,
     "dailyMinutesDown": {
+      "2023-02-05": 1,
       "2023-02-03": 18,
       "2023-02-02": 15,
       "2023-01-31": 18,
@@ -962,8 +963,7 @@
       "2022-08-10": 75,
       "2022-07-29": 53,
       "2022-07-14": 306,
-      "2022-07-13": 226,
-      "2022-07-12": 126
+      "2022-07-13": 226
     }
   },
   {
