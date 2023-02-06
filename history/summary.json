@@ -66,11 +66,11 @@
     "url": "https://studentweb.aspete.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "71.93%",
-    "uptimeWeek": "82.43%",
-    "uptimeMonth": "95.66%",
+    "uptimeWeek": "82.42%",
+    "uptimeMonth": "95.67%",
     "uptimeYear": "99.64%",
     "time": 3053,
     "timeDay": 7793,
@@ -78,7 +78,7 @@
     "timeMonth": 7368,
     "timeYear": 3185,
     "dailyMinutesDown": {
-      "2023-02-06": 321,
+      "2023-02-06": 322,
       "2023-02-05": 599,
       "2023-02-04": 192,
       "2023-02-03": 383,
@@ -89,8 +89,7 @@
       "2023-01-26": 30,
       "2023-01-24": 19,
       "2023-01-23": 65,
-      "2023-01-22": 6,
-      "2023-01-21": 6
+      "2023-01-22": 6
     }
   },
   {
@@ -503,7 +502,7 @@
     "timeMonth": 0,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2023-02-06": 1174,
+      "2023-02-06": 1194,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -629,7 +628,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-02-06": 1174,
+      "2023-02-06": 1194,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
