@@ -68,7 +68,7 @@
     "slug": "a-s-pai-t-e",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "40.71%",
+    "uptimeDay": "45.91%",
     "uptimeWeek": "64.68%",
     "uptimeMonth": "91.74%",
     "uptimeYear": "99.31%",
@@ -477,8 +477,7 @@
       "2022-04-09": 19,
       "2022-03-11": 92,
       "2022-02-25": 117,
-      "2022-02-17": 13,
-      "2022-02-09": 104
+      "2022-02-17": 13
     }
   },
   {
@@ -487,18 +486,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sef.samos.aegean.gr.ico",
     "slug": "panepistimio-aigaioy-s-e-f",
     "status": "down",
-    "uptime": "72.04%",
+    "uptime": "72.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.17%",
+    "uptimeYear": "71.16%",
     "time": 1056,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2023-02-08": 1415,
+      "2023-02-09": 50,
+      "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -615,18 +615,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/icarus-icsd.aegean.gr.ico",
     "slug": "panepistimio-aigaioy-icarus",
     "status": "down",
-    "uptime": "63.92%",
+    "uptime": "63.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.84%",
+    "uptimeYear": "62.82%",
     "time": 1202,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2023-02-08": 1415,
+      "2023-02-09": 50,
+      "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
@@ -1043,7 +1044,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.cc.uoc.gr.ico",
     "slug": "panepistimio-kritis",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.39%",
     "uptimeDay": "92.57%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
@@ -1184,8 +1185,7 @@
       "2022-06-03": 28,
       "2022-03-30": 27,
       "2022-03-23": 6,
-      "2022-03-16": 5,
-      "2022-02-09": 82
+      "2022-03-16": 5
     }
   },
   {
@@ -1246,7 +1246,7 @@
     "timeDay": 1037,
     "timeWeek": 1136,
     "timeMonth": 2385,
-    "timeYear": 1693,
+    "timeYear": 1694,
     "dailyMinutesDown": {
       "2023-02-08": 19,
       "2023-02-07": 20,
