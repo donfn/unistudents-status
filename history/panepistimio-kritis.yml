@@ -1,7 +1,7 @@
 url: https://student.cc.uoc.gr/
-status: up
-code: 200
-responseTime: 4913
-lastUpdated: 2023-02-10T09:45:01.238Z
+status: down
+code: 500
+responseTime: 6456
+lastUpdated: 2023-02-10T18:09:17.290Z
 startTime: Sat Jan 29 2022 00:21:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
