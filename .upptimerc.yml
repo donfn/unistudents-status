@@ -34,10 +34,6 @@ sites:
     url: https://e-grammateia.aueb.gr/unistudent/
   - name: Πανεπιστήμιο Αιγαίου (UNIVERSIS)
     url: https://uni-extapi.aegean.gr/api/
-  - name: Πανεπιστήμιο Αιγαίου (Σ.Ε.Φ.)
-    url: https://sef.samos.aegean.gr/index.php
-  - name: Πανεπιστήμιο Αιγαίου (ICARUS)
-    url: https://icarus-icsd.aegean.gr/
   - name: Πανεπιστήμιο Δυτικής Αττικής
     url: https://services.uniwa.gr/
   - name: Πανεπιστήμιο Δυτικής Μακεδονίας
