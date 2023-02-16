@@ -6,9 +6,9 @@ sites:
   - name: Υπηρεσία Νέων & Ανακοινώσεων (UniNews)
     url: https://gohan.unistudents.gr/metrics/uptime
     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
-#   - name: Υπηρεσία Λογαριασμού & Πληθοπορισμού (UniAccount)
-#     url: https://dev.unistudents.gr/hello
-#     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
+  - name: Κεντρικό API (UniStudents)
+    url: https://api.unistudents.gr/
+    icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
   - name: Α.Σ.ΠΑΙ.Τ.Ε
     url: https://studentweb.aspete.gr/
     __dangerous__insecure: true
@@ -45,7 +45,7 @@ sites:
   - name: Πανεπιστήμιο Πατρών
     url: https://progress.upatras.gr
   - name: Πανεπιστήμιο Πειραιώς
-    url: https://students.unipi.gr/
+    url: https://sis-portal.unipi.gr
   - name: Πανεπιστήμιο Πελοποννήσου (Cardisoft)
     url: https://e-secretary.uop.gr/UniStudent/
 #   - name: Πανεπιστήμιο Πελοποννήσου (TEIPEL)
