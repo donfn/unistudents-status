@@ -1,7 +1,7 @@
-url: https://students.unipi.gr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-02-15T23:20:17.740Z
+url: https://sis-portal.unipi.gr
+status: up
+code: 200
+responseTime: 1706
+lastUpdated: 2023-02-16T19:04:17.640Z
 startTime: Sat Jan 29 2022 00:21:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
