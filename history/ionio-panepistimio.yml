@@ -1,7 +1,7 @@
 url: https://dias.ionio.gr/
-status: up
-code: 200
-responseTime: 1844
-lastUpdated: 2023-02-17T07:29:45.473Z
+status: down
+code: 503
+responseTime: 1385
+lastUpdated: 2023-02-17T07:55:14.767Z
 startTime: Sat Jan 29 2022 00:20:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
