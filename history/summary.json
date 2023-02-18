@@ -88,7 +88,7 @@
     "uptime": "97.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.82%",
+    "uptimeMonth": "64.80%",
     "uptimeYear": "97.07%",
     "time": 3146,
     "timeDay": 0,
@@ -96,7 +96,7 @@
     "timeMonth": 7432,
     "timeYear": 3427,
     "dailyMinutesDown": {
-      "2023-02-18": 702,
+      "2023-02-18": 709,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -599,7 +599,7 @@
     "slug": "panepistimio-dytikis-makedonias",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "64.67%",
+    "uptimeDay": "65.13%",
     "uptimeWeek": "81.83%",
     "uptimeMonth": "95.13%",
     "uptimeYear": "99.27%",
@@ -700,10 +700,10 @@
     "url": "https://classweb.uoi.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/classweb.uoi.gr.ico",
     "slug": "panepistimio-ioanninon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "78.60%",
-    "uptimeWeek": "92.57%",
+    "uptimeDay": "78.50%",
+    "uptimeWeek": "92.56%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "98.86%",
     "time": 2969,
@@ -712,7 +712,7 @@
     "timeMonth": 4416,
     "timeYear": 3017,
     "dailyMinutesDown": {
-      "2023-02-18": 109,
+      "2023-02-18": 110,
       "2023-02-17": 224,
       "2023-02-16": 69,
       "2023-02-14": 336,
@@ -768,8 +768,7 @@
       "2022-05-08": 28,
       "2022-05-06": 26,
       "2022-05-05": 38,
-      "2022-05-03": 44,
-      "2022-05-02": 26
+      "2022-05-03": 44
     }
   },
   {
@@ -889,7 +888,7 @@
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.91%",
+    "uptimeWeek": "17.98%",
     "uptimeMonth": "75.53%",
     "uptimeYear": "97.03%",
     "time": 2832,
