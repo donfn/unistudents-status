@@ -88,7 +88,7 @@
     "uptime": "97.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.54%",
+    "uptimeMonth": "64.53%",
     "uptimeYear": "97.04%",
     "time": 3146,
     "timeDay": 0,
@@ -96,7 +96,7 @@
     "timeMonth": 7432,
     "timeYear": 3427,
     "dailyMinutesDown": {
-      "2023-02-18": 822,
+      "2023-02-18": 829,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -700,10 +700,10 @@
     "url": "https://classweb.uoi.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/classweb.uoi.gr.ico",
     "slug": "panepistimio-ioanninon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "72.69%",
-    "uptimeWeek": "91.44%",
+    "uptimeDay": "72.60%",
+    "uptimeWeek": "91.43%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "98.84%",
     "time": 2991,
@@ -712,7 +712,7 @@
     "timeMonth": 4611,
     "timeYear": 3041,
     "dailyMinutesDown": {
-      "2023-02-18": 223,
+      "2023-02-18": 224,
       "2023-02-17": 224,
       "2023-02-16": 69,
       "2023-02-14": 336,
@@ -768,7 +768,7 @@
       "2022-05-08": 28,
       "2022-05-06": 26,
       "2022-05-05": 38,
-      "2022-05-03": 44
+      "2022-05-03": 23
     }
   },
   {
@@ -888,7 +888,7 @@
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.11%",
+    "uptimeWeek": "19.18%",
     "uptimeMonth": "75.53%",
     "uptimeYear": "97.03%",
     "time": 2832,
