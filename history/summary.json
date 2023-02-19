@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
     "status": "down",
-    "uptime": "97.10%",
+    "uptime": "97.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.19%",
-    "uptimeYear": "96.93%",
+    "uptimeMonth": "63.01%",
+    "uptimeYear": "96.92%",
     "time": 3146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 7463,
     "timeYear": 3429,
     "dailyMinutesDown": {
-      "2023-02-18": 1414,
+      "2023-02-19": 53,
+      "2023-02-18": 1440,
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
@@ -304,8 +305,7 @@
     "timeYear": 1495,
     "dailyMinutesDown": {
       "2023-02-13": 17,
-      "2022-11-23": 15,
-      "2022-02-19": 15
+      "2022-11-23": 15
     }
   },
   {
@@ -326,8 +326,7 @@
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2023-02-13": 25,
-      "2023-02-06": 13,
-      "2022-02-19": 133
+      "2023-02-06": 13
     }
   },
   {
@@ -869,8 +868,7 @@
       "2022-04-02": 107,
       "2022-03-19": 56,
       "2022-03-13": 16,
-      "2022-02-27": 23,
-      "2022-02-19": 25
+      "2022-02-27": 23
     }
   },
   {
@@ -881,7 +879,7 @@
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "24.98%",
+    "uptimeWeek": "25.76%",
     "uptimeMonth": "75.56%",
     "uptimeYear": "97.03%",
     "time": 2832,
@@ -983,9 +981,9 @@
     "slug": "panteio-panepistimio",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "86.67%",
+    "uptimeDay": "92.14%",
     "uptimeWeek": "96.93%",
-    "uptimeMonth": "94.73%",
+    "uptimeMonth": "94.91%",
     "uptimeYear": "98.39%",
     "time": 1711,
     "timeDay": 1199,
@@ -1148,8 +1146,7 @@
       "2022-03-19": 22,
       "2022-03-11": 321,
       "2022-03-03": 9,
-      "2022-02-20": 19,
-      "2022-02-19": 12
+      "2022-02-20": 19
     }
   },
   {
