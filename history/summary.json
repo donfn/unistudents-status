@@ -57,8 +57,7 @@
       "2022-04-10": 31,
       "2022-03-14": 13,
       "2022-02-28": 7,
-      "2022-02-26": 12,
-      "2022-02-23": 6
+      "2022-02-26": 12
     }
   },
   {
@@ -85,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
     "status": "down",
-    "uptime": "96.10%",
+    "uptime": "96.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.05%",
-    "uptimeYear": "95.84%",
+    "uptimeMonth": "49.87%",
+    "uptimeYear": "95.82%",
     "time": 3146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 7433,
-    "timeYear": 3445,
+    "timeYear": 3446,
     "dailyMinutesDown": {
-      "2023-02-22": 1411,
+      "2023-02-23": 50,
+      "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
@@ -601,18 +601,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/students.uowm.gr.ico",
     "slug": "panepistimio-dytikis-makedonias",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "79.31%",
-    "uptimeWeek": "83.02%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.21%",
+    "uptimeDay": "74.95%",
+    "uptimeWeek": "82.24%",
+    "uptimeMonth": "93.76%",
+    "uptimeYear": "99.16%",
     "time": 2926,
-    "timeDay": 1233,
+    "timeDay": 1253,
     "timeWeek": 3298,
     "timeMonth": 2838,
     "timeYear": 2888,
     "dailyMinutesDown": {
-      "2023-02-22": 298,
+      "2023-02-23": 51,
+      "2023-02-22": 326,
       "2023-02-21": 265,
       "2023-02-18": 92,
       "2023-02-17": 795,
@@ -881,7 +882,7 @@
     "status": "up",
     "uptime": "97.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.09%",
+    "uptimeWeek": "82.88%",
     "uptimeMonth": "75.63%",
     "uptimeYear": "97.03%",
     "time": 2825,
@@ -992,7 +993,7 @@
     "timeDay": 1422,
     "timeWeek": 3241,
     "timeMonth": 2471,
-    "timeYear": 1753,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2023-02-22": 19,
       "2023-02-21": 10,
@@ -1258,8 +1259,7 @@
       "2022-03-08": 36,
       "2022-03-03": 7,
       "2022-03-02": 7,
-      "2022-02-24": 7,
-      "2022-02-23": 7
+      "2022-02-24": 7
     }
   }
 ]
