@@ -56,8 +56,7 @@
       "2022-04-19": 49,
       "2022-04-10": 31,
       "2022-03-14": 13,
-      "2022-02-28": 7,
-      "2022-02-26": 12
+      "2022-02-28": 7
     }
   },
   {
@@ -86,7 +85,7 @@
     "status": "up",
     "uptime": "95.68%",
     "uptimeDay": "73.10%",
-    "uptimeWeek": "17.05%",
+    "uptimeWeek": "17.89%",
     "uptimeMonth": "44.17%",
     "uptimeYear": "95.35%",
     "time": 3154,
@@ -210,7 +209,7 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.03%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.77%",
     "time": 2404,
     "timeDay": 4352,
@@ -998,7 +997,7 @@
     "slug": "panteio-panepistimio",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "84.59%",
+    "uptimeDay": "90.44%",
     "uptimeWeek": "96.39%",
     "uptimeMonth": "96.20%",
     "uptimeYear": "98.39%",
