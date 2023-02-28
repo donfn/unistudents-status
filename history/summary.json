@@ -55,8 +55,7 @@
       "2022-04-29": 40,
       "2022-04-19": 49,
       "2022-04-10": 31,
-      "2022-03-14": 13,
-      "2022-02-28": 7
+      "2022-03-14": 13
     }
   },
   {
@@ -86,8 +85,8 @@
     "slug": "a-s-pai-t-e",
     "status": "up",
     "uptime": "95.55%",
-    "uptimeDay": "55.76%",
-    "uptimeWeek": "37.10%",
+    "uptimeDay": "61.33%",
+    "uptimeWeek": "37.89%",
     "uptimeMonth": "42.22%",
     "uptimeYear": "95.18%",
     "time": 3155,
@@ -148,8 +147,7 @@
       "2022-05-18": 9,
       "2022-05-16": 32,
       "2022-05-13": 15,
-      "2022-05-11": 122,
-      "2022-02-28": 214
+      "2022-05-11": 122
     }
   },
   {
@@ -603,8 +601,7 @@
       "2022-03-21": 18,
       "2022-03-18": 26,
       "2022-03-02": 100,
-      "2022-03-01": 123,
-      "2022-02-28": 112
+      "2022-03-01": 123
     }
   },
   {
@@ -615,12 +612,12 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.80%",
+    "uptimeWeek": "89.88%",
     "uptimeMonth": "93.10%",
     "uptimeYear": "99.09%",
     "time": 2914,
     "timeDay": 1639,
-    "timeWeek": 1425,
+    "timeWeek": 1456,
     "timeMonth": 2657,
     "timeYear": 2835,
     "dailyMinutesDown": {
@@ -1004,12 +1001,12 @@
     "status": "up",
     "uptime": "98.52%",
     "uptimeDay": "98.38%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "96.16%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "96.34%",
     "uptimeYear": "98.39%",
     "time": 1716,
     "timeDay": 991,
-    "timeWeek": 2225,
+    "timeWeek": 2391,
     "timeMonth": 2420,
     "timeYear": 1752,
     "dailyMinutesDown": {
