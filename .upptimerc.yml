@@ -3,9 +3,6 @@ owner: donfn # Your GitHub organization or username, where this repository lives
 repo: unistudents-status # The name of this repository
 
 sites:
-  - name: Υπηρεσία Νέων & Ανακοινώσεων (UniNews)
-    url: https://gohan.unistudents.gr/metrics/uptime
-    icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
   - name: Κεντρικό API (UniStudents)
     url: https://api.unistudents.gr/
     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
@@ -68,7 +65,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.unistudents.gr
   # baseUrl: /your-repo-name
-  logoUrl: https://unistudents.gr/blog/content/images/2022/01/logo2-1024x341-1-1.png
+  logoUrl: https://cdn.unistudents.gr/assets/FullLogoAccent.svg
   name: Κατάσταση Συστημάτων
   introMessage: "Σε αυτή τη σελίδα μπορείς να παρακολουθείς την κατάσταση των συστημάτων που στηρίζεται το UniStudents. Τα στατιστικά για τα συστήματα φοιτητολογίων παρέχονται για ενημερωτικούς σκοπούς - το UniStudents δεν συντηρεί και δεν έχει πρόσβαση στις εκάστοτε υποδομές."
   navbar:
