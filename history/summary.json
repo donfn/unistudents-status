@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/studentweb.aspete.gr.ico",
     "slug": "a-s-pai-t-e",
     "status": "up",
-    "uptime": "92.26%",
-    "uptimeDay": "41.76%",
-    "uptimeWeek": "5.97%",
-    "uptimeMonth": "19.32%",
+    "uptime": "92.27%",
+    "uptimeDay": "46.93%",
+    "uptimeWeek": "6.70%",
+    "uptimeMonth": "19.49%",
     "uptimeYear": "91.31%",
     "time": 3160,
     "timeDay": 1872,
@@ -399,8 +399,7 @@
       "2022-04-24": 20,
       "2022-04-08": 6,
       "2022-04-06": 18,
-      "2022-03-18": 354,
-      "2022-03-15": 22
+      "2022-03-18": 354
     }
   },
   {
@@ -848,7 +847,7 @@
     "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.14%",
+    "uptimeMonth": "92.31%",
     "uptimeYear": "96.99%",
     "time": 2788,
     "timeDay": 2193,
