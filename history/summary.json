@@ -28,7 +28,7 @@
     "uptime": "92.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.54%",
+    "uptimeMonth": "51.85%",
     "uptimeYear": "91.31%",
     "time": 3325,
     "timeDay": 1761,
@@ -859,7 +859,7 @@
     "status": "up",
     "uptime": "95.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.36%",
+    "uptimeWeek": "76.68%",
     "uptimeMonth": "79.95%",
     "uptimeYear": "95.33%",
     "time": 2779,
@@ -974,11 +974,11 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/foit.panteion.gr.ico",
     "slug": "panteio-panepistimio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "96.65%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "98.36%",
     "time": 1791,
     "timeDay": 891,
@@ -986,6 +986,7 @@
     "timeMonth": 2893,
     "timeYear": 1792,
     "dailyMinutesDown": {
+      "2023-03-26": 1,
       "2023-03-25": 170,
       "2023-03-24": 48,
       "2023-03-23": 20,
@@ -1085,8 +1086,7 @@
       "2022-12-18": 32,
       "2022-12-17": 188,
       "2022-12-16": 45,
-      "2022-12-15": 21,
-      "2022-12-14": 20
+      "2022-12-15": 21
     }
   },
   {
