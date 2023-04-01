@@ -29,13 +29,13 @@
     "uptime": "92.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.58%",
-    "uptimeMonth": "56.84%",
+    "uptimeMonth": "57.17%",
     "uptimeYear": "91.21%",
     "time": 3328,
     "timeDay": 1463,
     "timeWeek": 1558,
     "timeMonth": 1427,
-    "timeYear": 3561,
+    "timeYear": 3569,
     "dailyMinutesDown": {
       "2023-03-30": 508,
       "2023-03-29": 38,
@@ -370,7 +370,7 @@
     "slug": "ionio-panepistimio",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "59.59%",
+    "uptimeDay": "69.74%",
     "uptimeWeek": "90.62%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "99.33%",
@@ -982,10 +982,10 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/foit.panteion.gr.ico",
     "slug": "panteio-panepistimio",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "84.55%",
-    "uptimeWeek": "96.51%",
+    "uptimeDay": "84.48%",
+    "uptimeWeek": "96.50%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "98.36%",
     "time": 1799,
@@ -994,7 +994,7 @@
     "timeMonth": 2517,
     "timeYear": 1804,
     "dailyMinutesDown": {
-      "2023-04-01": 113,
+      "2023-04-01": 114,
       "2023-03-31": 110,
       "2023-03-30": 22,
       "2023-03-29": 22,
@@ -1094,8 +1094,7 @@
       "2022-12-24": 169,
       "2022-12-23": 45,
       "2022-12-22": 22,
-      "2022-12-21": 11,
-      "2022-12-20": 21
+      "2022-12-21": 11
     }
   },
   {
