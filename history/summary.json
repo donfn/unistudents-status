@@ -35,7 +35,7 @@
     "timeDay": 1457,
     "timeWeek": 1743,
     "timeMonth": 1666,
-    "timeYear": 3831,
+    "timeYear": 3834,
     "dailyMinutesDown": {
       "2023-04-03": 5,
       "2023-03-30": 508,
@@ -582,18 +582,19 @@
     "url": "https://students.uowm.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/students.uowm.gr.ico",
     "slug": "panepistimio-dytikis-makedonias",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.60%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "93.59%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "98.33%",
-    "time": 2775,
+    "uptimeYear": "98.34%",
+    "time": 2776,
     "timeDay": 1578,
     "timeWeek": 3550,
     "timeMonth": 2151,
     "timeYear": 2893,
     "dailyMinutesDown": {
+      "2023-04-17": 1,
       "2023-04-15": 618,
       "2023-04-14": 12,
       "2023-04-13": 14,
@@ -679,7 +680,7 @@
       "2022-10-10": 17,
       "2022-10-09": 13,
       "2022-10-08": 13,
-      "2022-10-07": 86
+      "2022-10-07": 25
     }
   },
   {
@@ -865,7 +866,7 @@
     "uptime": "96.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.48%",
+    "uptimeMonth": "86.68%",
     "uptimeYear": "95.33%",
     "time": 2749,
     "timeDay": 2294,
