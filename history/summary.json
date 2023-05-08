@@ -984,11 +984,11 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/foit.panteion.gr.ico",
     "slug": "panteio-panepistimio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.63%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "99.04%",
     "time": 1869,
     "timeDay": 952,
@@ -996,6 +996,7 @@
     "timeMonth": 2336,
     "timeYear": 1923,
     "dailyMinutesDown": {
+      "2023-05-08": 1,
       "2023-05-07": 18,
       "2023-05-06": 150,
       "2023-05-05": 108,
@@ -1093,8 +1094,7 @@
       "2023-02-02": 26,
       "2023-02-01": 129,
       "2023-01-31": 20,
-      "2023-01-30": 21,
-      "2023-01-29": 19
+      "2023-01-30": 21
     }
   },
   {
