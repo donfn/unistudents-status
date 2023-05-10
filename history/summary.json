@@ -374,7 +374,7 @@
     "timeDay": 2152,
     "timeWeek": 1757,
     "timeMonth": 1728,
-    "timeYear": 1796,
+    "timeYear": 1800,
     "dailyMinutesDown": {
       "2023-04-28": 183,
       "2023-04-04": 211,
@@ -589,7 +589,7 @@
     "timeDay": 2220,
     "timeWeek": 1700,
     "timeMonth": 2239,
-    "timeYear": 2686,
+    "timeYear": 2693,
     "dailyMinutesDown": {
       "2023-04-23": 448,
       "2023-04-20": 10,
@@ -685,18 +685,19 @@
     "url": "https://classweb.uoi.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/classweb.uoi.gr.ico",
     "slug": "panepistimio-ioanninon",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.26%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.80%",
-    "time": 3004,
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.81%",
+    "time": 3008,
     "timeDay": 2052,
     "timeWeek": 2378,
     "timeMonth": 2284,
     "timeYear": 3122,
     "dailyMinutesDown": {
+      "2023-05-10": 1,
       "2023-05-04": 358,
       "2023-05-03": 120,
       "2023-04-25": 44,
@@ -743,7 +744,7 @@
       "2022-07-21": 7,
       "2022-06-30": 383,
       "2022-06-29": 654,
-      "2022-06-23": 43
+      "2022-06-23": 28
     }
   },
   {
