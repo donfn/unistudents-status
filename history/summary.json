@@ -36,7 +36,7 @@
     "timeDay": 1998,
     "timeWeek": 1541,
     "timeMonth": 1732,
-    "timeYear": 4074,
+    "timeYear": 4079,
     "dailyMinutesDown": {
       "2023-05-09": 26,
       "2023-04-27": 6,
@@ -578,9 +578,9 @@
     "slug": "panepistimio-dytikis-makedonias",
     "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "91.21%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "98.24%",
     "time": 2754,
     "timeDay": 1567,
@@ -588,7 +588,7 @@
     "timeMonth": 1658,
     "timeYear": 2642,
     "dailyMinutesDown": {
-      "2023-05-18": 100,
+      "2023-05-18": 127,
       "2023-04-23": 448,
       "2023-04-20": 10,
       "2023-04-17": 29,
@@ -983,10 +983,10 @@
     "url": "https://foit.panteion.gr/declare/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/foit.panteion.gr.ico",
     "slug": "panteio-panepistimio",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "96.56%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "96.58%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "99.06%",
     "time": 1907,
@@ -995,6 +995,7 @@
     "timeMonth": 2233,
     "timeYear": 1966,
     "dailyMinutesDown": {
+      "2023-05-18": 1,
       "2023-05-17": 19,
       "2023-05-16": 18,
       "2023-05-15": 19,
@@ -1093,8 +1094,7 @@
       "2023-02-11": 161,
       "2023-02-10": 45,
       "2023-02-09": 27,
-      "2023-02-08": 19,
-      "2023-02-07": 20
+      "2023-02-08": 19
     }
   },
   {
