@@ -1,7 +1,7 @@
 url: https://uniportal.ihu.gr/
-status: up
-code: 200
-responseTime: 1361
-lastUpdated: 2023-05-22T23:16:18.211Z
+status: down
+code: 503
+responseTime: 1012
+lastUpdated: 2023-05-23T09:33:06.979Z
 startTime: Mon Mar 21 2022 11:31:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
