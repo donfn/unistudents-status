@@ -9,14 +9,30 @@ sites:
   - name: Scrape Farm - Node 1 (UniStudents)
     url: https://scrape-farm-1.unistudents.gr/
     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Scrape Farm - Node 2 (UniStudents)
     url: https://scrape-farm-2.unistudents.gr/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
   - name: Scrape Farm - Node 3 (UniStudents)
     url: https://scrape-farm-3.unistudents.gr/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
   - name: Scrape Farm - Node 4 (UniStudents)
     url: https://scrape-farm-4.unistudents.gr/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
     icon: https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png
   - name: Α.Σ.ΠΑΙ.Τ.Ε
     url: https://studentweb.aspete.gr/
