@@ -1,7 +1,7 @@
 url: https://services.uniwa.gr/
-status: down
-code: 503
-responseTime: 813
-lastUpdated: 2023-06-16T15:28:45.255Z
+status: up
+code: 200
+responseTime: 2106
+lastUpdated: 2023-06-16T15:36:27.071Z
 startTime: Sat Jan 29 2022 00:20:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
