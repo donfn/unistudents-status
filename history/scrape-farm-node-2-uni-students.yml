@@ -1,7 +1,7 @@
 url: https://scrape-farm-2.unistudents.gr/
-status: up
-code: 404
-responseTime: 619
-lastUpdated: 2023-06-22T10:47:00.762Z
+status: down
+code: 429
+responseTime: 915
+lastUpdated: 2023-06-22T11:00:40.970Z
 startTime: Wed May 24 2023 07:02:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
