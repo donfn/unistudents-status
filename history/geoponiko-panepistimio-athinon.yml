@@ -1,7 +1,7 @@
 url: https://unistudent.aua.gr/
-status: up
-code: 200
-responseTime: 3293
-lastUpdated: 2023-07-30T23:15:20.309Z
+status: down
+code: 503
+responseTime: 1828
+lastUpdated: 2023-07-31T13:55:48.639Z
 startTime: Sat Jan 29 2022 00:20:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
