@@ -1,7 +1,7 @@
 url: https://sis-portal.unipi.gr
-status: down
-code: 503
-responseTime: 1156
-lastUpdated: 2023-10-30T05:11:08.522Z
+status: up
+code: 200
+responseTime: 2234
+lastUpdated: 2023-10-30T05:26:10.749Z
 startTime: 2022-01-29T00:21:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
