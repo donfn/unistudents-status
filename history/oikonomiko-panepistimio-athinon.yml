@@ -1,7 +1,7 @@
 url: https://e-grammateia.aueb.gr/unistudent/
-status: up
-code: 200
-responseTime: 1618
-lastUpdated: 2023-10-31T23:16:07.398Z
+status: down
+code: 503
+responseTime: 614
+lastUpdated: 2023-11-01T09:14:29.742Z
 startTime: 2022-01-28T16:40:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
