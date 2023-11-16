@@ -1,7 +1,7 @@
 url: https://uni-extapi.aegean.gr/api/
-status: down
-code: 503
-responseTime: 887
-lastUpdated: 2023-11-16T11:18:32.928Z
+status: up
+code: 200
+responseTime: 1267
+lastUpdated: 2023-11-16T11:50:29.355Z
 startTime: 2022-01-29T00:20:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
