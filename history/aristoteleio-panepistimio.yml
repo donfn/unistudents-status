@@ -1,7 +1,7 @@
 url: https://universis-api.it.auth.gr/api
-status: up
-code: 200
-responseTime: 2874
-lastUpdated: 2023-11-23T23:17:10.063Z
+status: down
+code: 502
+responseTime: 1086
+lastUpdated: 2023-11-24T10:30:04.891Z
 startTime: 2022-01-28T16:40:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
