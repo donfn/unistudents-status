@@ -1,7 +1,7 @@
 url: https://universis-api.tuc.gr/api
-status: down
-code: 503
-responseTime: 21970
-lastUpdated: 2023-12-02T07:41:11.925Z
+status: up
+code: 200
+responseTime: 923
+lastUpdated: 2023-12-02T07:52:49.124Z
 startTime: 2022-01-28T16:41:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
