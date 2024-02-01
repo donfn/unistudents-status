@@ -16,7 +16,8 @@
     "timeMonth": 508,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-01-31": 1429,
+      "2024-02-01": 32,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -524,7 +525,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/unistudent.aua.gr.ico",
     "slug": "geoponiko-panepistimio-athinon",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -563,18 +564,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oauth.duth.gr.ico",
     "slug": "dimokriteio-panepistimio-t-hrakis",
     "status": "down",
-    "uptime": "65.51%",
+    "uptime": "65.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.88%",
+    "uptimeYear": "30.87%",
     "time": 2655,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2346,
     "dailyMinutesDown": {
-      "2024-01-31": 1430,
+      "2024-02-01": 32,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -953,10 +955,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/students.ece.ntua.gr.ico",
     "slug": "ethniko-metsovio-polytexneio-symmi",
     "status": "down",
-    "uptime": "96.98%",
+    "uptime": "96.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.74%",
+    "uptimeMonth": "27.64%",
     "uptimeYear": "93.95%",
     "time": 1642,
     "timeDay": 0,
@@ -964,7 +966,8 @@
     "timeMonth": 2392,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2024-01-31": 1430,
+      "2024-02-01": 32,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -1278,18 +1281,19 @@
     "url": "https://students.uowm.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/students.uowm.gr.ico",
     "slug": "panepistimio-dytikis-makedonias",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "97.50%",
-    "time": 2554,
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "97.51%",
+    "time": 2556,
     "timeDay": 1352,
     "timeWeek": 3324,
     "timeMonth": 2155,
     "timeYear": 2462,
     "dailyMinutesDown": {
+      "2024-02-01": 1,
       "2024-01-31": 11,
       "2024-01-28": 5,
       "2024-01-27": 5,
@@ -1365,8 +1369,7 @@
       "2023-02-18": 92,
       "2023-02-17": 795,
       "2023-02-16": 261,
-      "2023-02-15": 175,
-      "2023-02-14": 24
+      "2023-02-15": 175
     }
   },
   {
@@ -1446,7 +1449,8 @@
     "timeMonth": 0,
     "timeYear": 4725,
     "dailyMinutesDown": {
-      "2024-01-31": 1430,
+      "2024-02-01": 33,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -1668,8 +1672,7 @@
       "2023-02-09": 80,
       "2023-02-08": 22,
       "2023-02-06": 5,
-      "2023-02-04": 18,
-      "2023-02-01": 5
+      "2023-02-04": 18
     }
   },
   {
@@ -1765,14 +1768,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.77%",
+    "uptimeYear": "62.76%",
     "time": 2451,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2395,
     "dailyMinutesDown": {
-      "2024-01-31": 1430,
+      "2024-02-01": 33,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -2142,8 +2146,7 @@
       "2023-02-14": 6,
       "2023-02-12": 6,
       "2023-02-11": 6,
-      "2023-02-10": 6,
-      "2023-02-01": 174
+      "2023-02-10": 6
     }
   }
 ]
