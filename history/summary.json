@@ -16,7 +16,7 @@
     "timeMonth": 513,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-02-05": 710,
+      "2024-02-05": 716,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -578,7 +578,7 @@
     "timeMonth": 0,
     "timeYear": 2332,
     "dailyMinutesDown": {
-      "2024-02-05": 710,
+      "2024-02-05": 716,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -845,19 +845,19 @@
     "url": "https://uniportal.ihu.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/uniportal.ihu.gr.ico",
     "slug": "diethnes-panepistimio-ellados-uniportal",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "97.76%",
-    "time": 1970,
-    "timeDay": 6040,
-    "timeWeek": 3539,
-    "timeMonth": 2570,
-    "timeYear": 2037,
+    "uptimeYear": "97.81%",
+    "time": 1969,
+    "timeDay": 4239,
+    "timeWeek": 3217,
+    "timeMonth": 2517,
+    "timeYear": 2034,
     "dailyMinutesDown": {
-      "2024-02-05": 6,
+      "2024-02-05": 7,
       "2024-01-19": 49,
       "2024-01-16": 29,
       "2024-01-15": 87,
@@ -925,7 +925,7 @@
       "2023-02-20": 25,
       "2023-02-17": 629,
       "2023-02-16": 89,
-      "2023-02-15": 479
+      "2023-02-15": 218
     }
   },
   {
@@ -965,7 +965,7 @@
     "uptime": "96.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.98%",
+    "uptimeMonth": "12.97%",
     "uptimeYear": "92.72%",
     "time": 1649,
     "timeDay": 0,
@@ -973,7 +973,7 @@
     "timeMonth": 971,
     "timeYear": 1798,
     "dailyMinutesDown": {
-      "2024-02-05": 710,
+      "2024-02-05": 716,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -1461,7 +1461,7 @@
     "timeMonth": 0,
     "timeYear": 4717,
     "dailyMinutesDown": {
-      "2024-02-05": 711,
+      "2024-02-05": 717,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -1789,7 +1789,7 @@
     "timeMonth": 0,
     "timeYear": 2412,
     "dailyMinutesDown": {
-      "2024-02-05": 711,
+      "2024-02-05": 717,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
