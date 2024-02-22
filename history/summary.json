@@ -5,18 +5,19 @@
     "icon": "https://unistudents.gr/wp-content/uploads/2020/09/cropped-cropped-logo-300x300-1-32x32.png",
     "slug": "kentriko-api-uni-students",
     "status": "down",
-    "uptime": "36.90%",
+    "uptime": "36.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.00%",
+    "uptimeYear": "35.99%",
     "time": 619,
     "timeDay": 445,
-    "timeWeek": 527,
+    "timeWeek": 501,
     "timeMonth": 528,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-02-21": 1398,
+      "2024-02-22": 40,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -268,7 +269,7 @@
     "uptimeYear": "97.08%",
     "time": 1398,
     "timeDay": 9459,
-    "timeWeek": 2456,
+    "timeWeek": 2563,
     "timeMonth": 2497,
     "timeYear": 1398,
     "dailyMinutesDown": {
@@ -327,7 +328,7 @@
     "uptimeYear": "97.60%",
     "time": 1355,
     "timeDay": 452,
-    "timeWeek": 3938,
+    "timeWeek": 4141,
     "timeMonth": 2743,
     "timeYear": 1355,
     "dailyMinutesDown": {
@@ -382,7 +383,7 @@
     "uptimeYear": "99.75%",
     "time": 966,
     "timeDay": 419,
-    "timeWeek": 450,
+    "timeWeek": 441,
     "timeMonth": 1425,
     "timeYear": 966,
     "dailyMinutesDown": {
@@ -409,7 +410,7 @@
     "uptimeYear": "99.44%",
     "time": 1029,
     "timeDay": 455,
-    "timeWeek": 438,
+    "timeWeek": 405,
     "timeMonth": 1895,
     "timeYear": 1029,
     "dailyMinutesDown": {
@@ -439,10 +440,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "94.71%",
+    "uptimeYear": "94.72%",
     "time": 2643,
     "timeDay": 2122,
-    "timeWeek": 1757,
+    "timeWeek": 1718,
     "timeMonth": 3075,
     "timeYear": 1995,
     "dailyMinutesDown": {
@@ -481,8 +482,7 @@
       "2023-02-26": 249,
       "2023-02-25": 387,
       "2023-02-24": 747,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -553,7 +553,7 @@
     "uptimeYear": "99.13%",
     "time": 2415,
     "timeDay": 1788,
-    "timeWeek": 2251,
+    "timeWeek": 2133,
     "timeMonth": 2411,
     "timeYear": 2403,
     "dailyMinutesDown": {
@@ -581,18 +581,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oauth.duth.gr.ico",
     "slug": "dimokriteio-panepistimio-t-hrakis",
     "status": "down",
-    "uptime": "63.69%",
+    "uptime": "63.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.18%",
+    "uptimeYear": "25.17%",
     "time": 2574,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1817,
     "dailyMinutesDown": {
-      "2024-02-21": 1398,
+      "2024-02-22": 40,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -882,7 +883,7 @@
     "uptimeYear": "97.92%",
     "time": 2085,
     "timeDay": 6368,
-    "timeWeek": 5594,
+    "timeWeek": 5524,
     "timeMonth": 3627,
     "timeYear": 2071,
     "dailyMinutesDown": {
@@ -969,7 +970,7 @@
     "uptimeYear": "99.94%",
     "time": 1582,
     "timeDay": 915,
-    "timeWeek": 1190,
+    "timeWeek": 1107,
     "timeMonth": 1305,
     "timeYear": 1604,
     "dailyMinutesDown": {
@@ -992,11 +993,11 @@
     "uptime": "95.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "35.87%",
+    "uptimeMonth": "36.06%",
     "uptimeYear": "91.36%",
     "time": 1621,
     "timeDay": 811,
-    "timeWeek": 1055,
+    "timeWeek": 1033,
     "timeMonth": 976,
     "timeYear": 1780,
     "dailyMinutesDown": {
@@ -1051,7 +1052,7 @@
     "uptimeYear": "99.96%",
     "time": 883,
     "timeDay": 911,
-    "timeWeek": 830,
+    "timeWeek": 810,
     "timeMonth": 955,
     "timeYear": 885,
     "dailyMinutesDown": {
@@ -1074,7 +1075,7 @@
     "uptimeYear": "99.72%",
     "time": 1331,
     "timeDay": 1108,
-    "timeWeek": 1269,
+    "timeWeek": 1218,
     "timeMonth": 1351,
     "timeYear": 1335,
     "dailyMinutesDown": {
@@ -1109,7 +1110,7 @@
     "uptimeYear": "99.35%",
     "time": 2017,
     "timeDay": 1781,
-    "timeWeek": 1957,
+    "timeWeek": 1814,
     "timeMonth": 2000,
     "timeYear": 1964,
     "dailyMinutesDown": {
@@ -1146,7 +1147,7 @@
     "uptimeYear": "99.38%",
     "time": 1505,
     "timeDay": 1446,
-    "timeWeek": 1492,
+    "timeWeek": 1432,
     "timeMonth": 1518,
     "timeYear": 1498,
     "dailyMinutesDown": {
@@ -1239,7 +1240,7 @@
     "uptimeYear": "98.96%",
     "time": 1099,
     "timeDay": 1006,
-    "timeWeek": 1102,
+    "timeWeek": 1064,
     "timeMonth": 1195,
     "timeYear": 1114,
     "dailyMinutesDown": {
@@ -1282,7 +1283,7 @@
     "uptimeYear": "99.66%",
     "time": 1838,
     "timeDay": 1409,
-    "timeWeek": 1656,
+    "timeWeek": 1564,
     "timeMonth": 1671,
     "timeYear": 1874,
     "dailyMinutesDown": {
@@ -1336,9 +1337,9 @@
     "uptimeYear": "97.94%",
     "time": 2569,
     "timeDay": 1833,
-    "timeWeek": 6654,
+    "timeWeek": 7120,
     "timeMonth": 3683,
-    "timeYear": 2511,
+    "timeYear": 2514,
     "dailyMinutesDown": {
       "2024-02-21": 14,
       "2024-02-16": 14,
@@ -1433,7 +1434,7 @@
     "uptimeYear": "99.21%",
     "time": 2249,
     "timeDay": 1565,
-    "timeWeek": 1630,
+    "timeWeek": 1571,
     "timeMonth": 1742,
     "timeYear": 1799,
     "dailyMinutesDown": {
@@ -1482,18 +1483,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.cc.uoc.gr.ico",
     "slug": "panepistimio-kritis",
     "status": "down",
-    "uptime": "81.51%",
+    "uptime": "81.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.61%",
+    "uptimeYear": "67.60%",
     "time": 5234,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4312,
     "dailyMinutesDown": {
-      "2024-02-21": 1399,
+      "2024-02-22": 41,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -1641,7 +1643,7 @@
     "uptimeYear": "99.60%",
     "time": 2591,
     "timeDay": 1657,
-    "timeWeek": 2020,
+    "timeWeek": 1906,
     "timeMonth": 2060,
     "timeYear": 2391,
     "dailyMinutesDown": {
@@ -1684,7 +1686,7 @@
     "uptimeYear": "98.07%",
     "time": 2744,
     "timeDay": 2488,
-    "timeWeek": 2368,
+    "timeWeek": 2318,
     "timeMonth": 2111,
     "timeYear": 2153,
     "dailyMinutesDown": {
@@ -1729,7 +1731,7 @@
     "uptimeYear": "98.78%",
     "time": 1095,
     "timeDay": 891,
-    "timeWeek": 866,
+    "timeWeek": 826,
     "timeMonth": 888,
     "timeYear": 949,
     "dailyMinutesDown": {
@@ -1805,14 +1807,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.03%",
+    "uptimeYear": "57.01%",
     "time": 2404,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2398,
+    "timeYear": 2376,
     "dailyMinutesDown": {
-      "2024-02-21": 1399,
+      "2024-02-22": 41,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -2077,7 +2080,7 @@
     "uptimeYear": "99.63%",
     "time": 1396,
     "timeDay": 966,
-    "timeWeek": 1094,
+    "timeWeek": 1024,
     "timeMonth": 1117,
     "timeYear": 1311,
     "dailyMinutesDown": {
@@ -2118,7 +2121,7 @@
     "uptimeYear": "99.20%",
     "time": 154,
     "timeDay": 129,
-    "timeWeek": 149,
+    "timeWeek": 143,
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -2162,7 +2165,7 @@
     "uptimeYear": "99.44%",
     "time": 2764,
     "timeDay": 6396,
-    "timeWeek": 7010,
+    "timeWeek": 7600,
     "timeMonth": 4770,
     "timeYear": 2968,
     "dailyMinutesDown": {
@@ -2197,8 +2200,7 @@
       "2023-03-09": 7,
       "2023-03-07": 6,
       "2023-02-27": 7,
-      "2023-02-23": 6,
-      "2023-02-22": 7
+      "2023-02-23": 6
     }
   }
 ]
