@@ -1,7 +1,7 @@
 url: https://backend.central.ntua.gr/
-status: down
-code: 502
-responseTime: 872
-lastUpdated: 2024-02-23T09:53:34.902Z
+status: up
+code: 200
+responseTime: 1551
+lastUpdated: 2024-02-23T10:00:15.364Z
 startTime: 2022-01-28T16:41:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
